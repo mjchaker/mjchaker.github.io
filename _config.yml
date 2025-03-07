@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 title: mjchaker's homepage
 description: Mohamad Jad Chaker's website. Bookmark this to keep an eye on my project updates!
 timezone: Canada/Eastern
+logo: /assets/img/profile.jpg
+
+social_links:
+  twitter: mjchaker
+  instagram: mjchaker
+  email: contact@chaker.tech
