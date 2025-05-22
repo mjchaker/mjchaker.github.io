@@ -2,12 +2,19 @@
   <img src="/assets/img/profile.jpeg" alt="Mohamad Jad Chaker" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
 </div>
 
-I was born in Dubai on July 22, 2002, making me 22 years old as time of writing. I lived in Bahrain and attended two private schools. I used to visit my grandparents each summer in Lebanon. My first experience with video games was probably when my dad got me a PlayStation 2. I remember listening to music in the car with my dad and watching music videos on a forty two inch flat screen. I did choir for a while (I still remember the lyrics to Sweeney Todd). My only experience with sports was in physical education class. 
+# Contact
 
-I am ethnically Lebanese. I stand one hundred and seventy two meters tall, weigh about sixty two kilograms, and have brown eyes and black hair. I have two brothers and a sister. I attended Barrie North Collegiate Institute, live in Barrie and will be moving to Oshawa to start engineering at Ontario Tech. I recently bought a custom built desktop off a friend. It has a NVIDIA RTX 3060 Ti, a 12th Gen Intel(R) Core(TM) i7-12700K, and 48GB of RAM. My favourite games are Call of Duty, Marvel Rivals and League of Legends. I have two cats named Milo and Lea.
+See the bottom of the page!
+
+# About
+
+I was born in Dubai on July 22, 2002.  I am ethnically Lebanese. I stand one hundred and seventy two meters tall, weigh about sixty two kilograms, and have brown eyes and black hair. 
+
+When I was 12, I moved to Canada. I attended Portage View Public School and Barrie North Collegiate Institute. I currently reside in Barrie and will be moving to Oshawa to start engineering at Ontario Tech. 
+
 # Education
 
-At the University of Waterloo, I have taken the following classes (A first year of Mathematical Physics)
+At the University of Waterloo, I have taken the following classes (all first-year courses)
 
 - MATH 136 (Linear Algebra 1 for Honours Mathematics)
 - MATH 137 (Calculus 1 for Honours Mathematics)
@@ -19,29 +26,33 @@ At the University of Waterloo, I have taken the following classes (A first year 
 - CHEM 123L (General Chemistry 2 Lab)
 - SPCOM 193 (Communication in the Sciences)
 
- After the general first year at Ontario Tech, I will probably declare my major as electrical engineering.
+ As mentioned above, I am planning to start engineering at Ontario Tech. After the general first year at Ontario Tech, I will probably declare my major as electrical engineering.
 
-# Hobbies
-
-I have been playing the piano since I was seven years old, and have been playing the guitar since I was twenty years old. I have taken a couple of lessons; However, they have never really stuck. My genres are rock, pop, and hip-hop music. I have a basic knowledge of musical theory; I understand how to construct the seven different modes. I know music theory and have a strong working knowledge of Logic Pro. I know many chord shapes and can play bar chords fairly well.
-
-I used to do Judo. I got up to orange belt. I still remember how to count to ten in Japanese and many of the names of techniques!
 
 # Technical Skills
 
-I know C, Java, Python and Scheme. Imperative and functional programming.  I know how to install and configure various computer operating systems; these include including Debian, Fedora, and Gentoo.
+- C, Java, Python and Scheme. 
+- Imperative and functional programming.  
+- Installation and configuration of Debian, Fedora and Gentoo.
+- Self-taught apple software expert.
 
 # Projects
 
-In high school (Ontario), I took ICS. Both grade 11 and grade 12 high school classes had a final project as part of the final grade. In grade 11, I made a racing game in Turing. If you can find an interpreter, it will run flawlessly.
-
-In grade 12, I made a program that, when given the coefficients of a quadratic function, it computes the roots of said function. It works by implementing the quadratic formula. When I made it, I had no idea about Newton's method or the half-interval method. (It is possible that the standard Java library implements square roots using one of these methods)
-
-I helped configure the Linux kernel on LineageOS on the Samsung Galaxy S6 Edge so that calls could work using the unique IC hardware at the time. I learned a lot about the kernel.
+- Racing Game in Turing.
+- Quadratic roots calculator in Java.
+- Android Linux kernel in C.
 
 # Resume/CV
 
 [Here it is.](/Resume.pdf)
+
+# Hobbies
+
+I am a musician. I play the piano and the guitar. I have taken some lessons. My favourite genres are rock, pop, and hip-hop music. I have a basic knowledge of musical theory; for example, I understand how to construct the seven different modes from the major scale. I have a strong working knowledge of the digital audio workstation Logic Pro. 
+
+I recently bought a custom built desktop computer off a friend. It has a NVIDIA RTX 3060 Ti, a 12th Gen Intel(R) Core(TM) i7-12700K, and 48GB of RAM. I use it mainly gameMy favourite games are Call of Duty, Marvel Rivals and League of Legends. 
+
+I used to do practice [Judo](https://en.wikipedia.org/wiki/Judo). I got up to orange belt. I still remember how to count to ten in Japanese and many of the names of techniques!
 
 # Future Plans
 
