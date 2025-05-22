@@ -1,10 +1,12 @@
 theme: jekyll-theme-minimal
 title: mjchaker's homepage
-description: Mohamad Jad Chaker's website. Bookmark this to keep an eye on my project updates!
+description: Mohamad Jad Chaker's website.
 timezone: Canada/Eastern
-logo: /assets/img/profile.jpg
+logo: /assets/img/profile.jpeg
 
-social_links:
-  twitter: mjchaker
-  instagram: mjchaker
-  email: contact@chaker.tech
+author:
+  name: "Mohamad Jad Chaker"
+  email: "contact@chaker.tech"
+  location: "Ontario, Canada"
+  university: "Ontario Tech University"
+  twitter_username: mjchaker
