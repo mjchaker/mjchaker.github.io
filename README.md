@@ -1,7 +1,3 @@
-# Contact
- 
-For professional inquiries, I can be reached by email or by direct message on X. See my GitHub profile.
-
 # About Me
 
 I was born in Dubai on July 22, 2002, making me 22 years old as time of writing. I lived in Bahrain and attended two private schools. I used to visit my grandparents each summer in Lebanon. My first experience with video games was probably when my dad got me a PlayStation 2. I remember listening to music in the car with my dad and watching music videos on a forty two inch flat screen. I did choir for a while (I still remember the lyrics to Sweeny Todd). My only experience with sports was in physical education class. 
