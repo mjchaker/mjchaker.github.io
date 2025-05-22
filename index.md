@@ -4,15 +4,15 @@
 
 # Contact
 
-See the bottom of the page!
+You can contact me by email or through direct message on X linked at the bottom of this page.
 
 # About
 
-I was born in Dubai on July 22, 2002.  I am ethnically Lebanese. I stand one hundred and seventy two meters tall, weigh about sixty two kilograms, and have brown eyes and black hair. 
-
-When I was 12, I moved to Canada. I attended Portage View Public School and Barrie North Collegiate Institute. I currently reside in Barrie and will be moving to Oshawa to start engineering at Ontario Tech. 
+I was born on July 22, 2002. I am ethnically Lebanese and lived in Bahrain for most of my youth. I have been to visited Turkey and Dubai.  I stand one hundred and seventy two meters tall and weigh about sixty two kilograms I currently reside in Barrie and will be moving to Oshawa to start engineering at Ontario Tech. 
 
 # Education
+
+I attended Portage View Public School and Barrie North Collegiate Institute.
 
 At the University of Waterloo, I have taken the following classes (all first-year courses)
 
@@ -56,4 +56,4 @@ I used to do practice [Judo](https://en.wikipedia.org/wiki/Judo). I got up to or
 
 # Future Plans
 
-I would like to start a technical blog explaining foundational concepts in physics and chemistry.
+I would like to start a technical blog explaining foundational concepts in physics and chemistry. I would like to go to the U.S someday.
