@@ -1,12 +1,12 @@
-## Contact
-
-For professional inquries, I can be reached by email or by direct message on X.
+# Contact
+ 
+For professional inquiries, I can be reached by email or by direct message on X. See my GitHub profile.
 
 # About Me
 
-I was born in Dubai on July 22, 2002, making me 22 years old as time of writing. I lived in Bahrain and attentded two private schools. I used to visit my grandparents each summer in Lebanon. My first experience with video games was probably when my dad got me a PlayStation 2. I remember listening to music in the car with my dad and watching music videos on a forty two inch flatscreen. I did choir for a while (I still rememeber the lyrics to Sweeny Todd). My only experience with sports was in physical education class. 
+I was born in Dubai on July 22, 2002, making me 22 years old as time of writing. I lived in Bahrain and attended two private schools. I used to visit my grandparents each summer in Lebanon. My first experience with video games was probably when my dad got me a PlayStation 2. I remember listening to music in the car with my dad and watching music videos on a forty two inch flat screen. I did choir for a while (I still remember the lyrics to Sweeny Todd). My only experience with sports was in physical education class. 
 
-I am ethnically Lebaneese. I stand one hundred and seventy two meters tall, weigh about sixty two kilograms, and have brown eyes and black hair. I have two brothers and a sister. I attended Barrie North Collegiate Institute, live in Barrie and will be moving to Oshawa to start engineering at Ontario Tech. I recently bought a custom built desktop off a friend. It has a NVIDIA RTX 3060 Ti, a 12th Gen Intel(R) Core(TM) i7-12700K, and 48GB of RAM. My favourite games are Call of Duty, Marvel Rivals and League of Legends. I have two cats named Milo and Lea.
+I am ethnically Lebanese. I stand one hundred and seventy two meters tall, weigh about sixty two kilograms, and have brown eyes and black hair. I have two brothers and a sister. I attended Barrie North Collegiate Institute, live in Barrie and will be moving to Oshawa to start engineering at Ontario Tech. I recently bought a custom built desktop off a friend. It has a NVIDIA RTX 3060 Ti, a 12th Gen Intel(R) Core(TM) i7-12700K, and 48GB of RAM. My favourite games are Call of Duty, Marvel Rivals and League of Legends. I have two cats named Milo and Lea.
 # Education
 
 At the University of Waterloo, I have taken the following classes (A first year of Mathematical Physics)
@@ -15,7 +15,7 @@ At the University of Waterloo, I have taken the following classes (A first year 
 - MATH 137 (Calculus 1 for Honours Mathematics)
 - MATH 138 (Calculus 2 for Honours Mathematics)
 - PHYS 121 + PHYS 121L (Mechanics + Mechanics Lab)
-- PHYS 122 + PHYS 132L (Waves Electricty & Magnetism + Waves Electricity & Magnetism Lab)
+- PHYS 122 + PHYS 132L (Waves Electricity & Magnetism + Waves Electricity & Magnetism Lab)
 - PHYS 124 (Modern Physics)
 - CHEM 120 + CHEM 120L (General Chemistry 1 + General Chemistry 1 Lab)
 - CHEM 123L (General Chemistry 2 Lab)
@@ -31,11 +31,11 @@ I used to do Judo. I got up to orange belt. I still remember how to count to ten
 
 # Technical Skills
 
-I know C, Java, python and Scheme. I know how to install and configure various computer operating systems; these include including Debian, Fedora, and Gentoo.
+I know C, Java, Python and Scheme. Imperative and functional programming.  I know how to install and configure various computer operating systems; these include including Debian, Fedora, and Gentoo.
 
 # Projects
 
-In highschool (Ontario), I took ICS. Both grade 11 and grade 12 high school classes had a final project as part of the final grade. In grade 11, I made a racing game in Turing. If you can find an interpreter, it will run flawlessly.
+In high school (Ontario), I took ICS. Both grade 11 and grade 12 high school classes had a final project as part of the final grade. In grade 11, I made a racing game in Turing. If you can find an interpreter, it will run flawlessly.
 
 In grade 12, I made a program that, when given the coefficients of a quadratic function, it computes the roots of said function. It works by implementing the quadratic formula. When I made it, I had no idea about Newton's method or the half-interval method. (It is possible that the standard Java library implements square roots using one of these methods)
 
