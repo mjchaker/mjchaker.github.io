@@ -1,7 +1,5 @@
 remote_theme: jekyll/minima
 timezone: Canada/Eastern
-logo: /assets/img/profile.jpeg
-email: "contact@chaker.tech"
 title: "Mohamad Jad Chaker's Personal Website"
 
 author:
@@ -16,3 +14,7 @@ minima:
     - title: "X (Twitter) Profile"
       icon: x-twitter
       url: "https://x.com/mjchaker"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
