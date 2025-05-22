@@ -1,10 +1,19 @@
-theme: minima
-title: mjchaker's homepage
-description: Mohamad Jad Chaker's website.
+remote_theme: jekyll/minima
 timezone: Canada/Eastern
 logo: /assets/img/profile.jpeg
-name: "Mohamad Jad Chaker"
 email: "contact@chaker.tech"
-location: "Ontario, Canada"
-university: "Ontario Tech University"
-twitter_username: "mjchaker"
+
+author:
+  name: "Mohamad Jad Chaker"
+  email: "contact@chaker.tech"
+
+social_links:
+    - title: "GitHub Profile"
+      icon: github
+      url: "https://github.com/mjchaker"
+    - title: "X (Twitter) Profile"
+      icon: x-twitter
+      url: "https://x.com/mjchaker"
+
+nav_pages:
+  - README.md
