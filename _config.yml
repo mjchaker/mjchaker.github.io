@@ -2,6 +2,7 @@ remote_theme: jekyll/minima
 timezone: Canada/Eastern
 logo: /assets/img/profile.jpeg
 email: "contact@chaker.tech"
+title: "Mohamad Jad Chaker's Personal Website"
 
 author:
   name: "Mohamad Jad Chaker"
