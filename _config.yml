@@ -7,7 +7,8 @@ author:
   name: "Mohamad Jad Chaker"
   email: "contact@chaker.tech"
 
-social_links:
+minima:
+  social_links:
     - title: "GitHub Profile"
       icon: github
       url: "https://github.com/mjchaker"
