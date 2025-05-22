@@ -16,6 +16,3 @@ minima:
     - title: "X (Twitter) Profile"
       icon: x-twitter
       url: "https://x.com/mjchaker"
-
-nav_pages:
-  - README.md
