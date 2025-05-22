@@ -8,7 +8,7 @@ You can contact me by email or through direct message on X linked at the bottom 
 
 # About
 
-I was born on July 22, 2002. I am ethnically Lebanese and lived in Bahrain for most of my youth. I have been to visited Turkey and Dubai.  I stand one hundred and seventy two meters tall and weigh about sixty two kilograms I currently reside in Barrie and will be moving to Oshawa to start engineering at Ontario Tech. 
+I was born in Dubai on July 22, 2002. I am ethnically Lebanese and lived in Bahrain for most of my youth.I stand one hundred and seventy two meters tall and weigh about sixty two kilograms. I currently reside in Barrie and will be moving to Oshawa.
 
 # Education
 
@@ -25,9 +25,6 @@ At the University of Waterloo, I have taken the following classes (all first-yea
 - CHEM 120 + CHEM 120L (General Chemistry 1 + General Chemistry 1 Lab)
 - CHEM 123L (General Chemistry 2 Lab)
 - SPCOM 193 (Communication in the Sciences)
-
- As mentioned above, I am planning to start engineering at Ontario Tech. After the general first year at Ontario Tech, I will probably declare my major as electrical engineering.
-
 
 # Technical Skills
 
@@ -50,10 +47,10 @@ At the University of Waterloo, I have taken the following classes (all first-yea
 
 I am a musician. I play the piano and the guitar. I have taken some lessons. My favourite genres are rock, pop, and hip-hop music. I have a basic knowledge of musical theory; for example, I understand how to construct the seven different modes from the major scale. I have a strong working knowledge of the digital audio workstation Logic Pro. 
 
-I recently bought a custom built desktop computer off a friend. It has a NVIDIA RTX 3060 Ti, a 12th Gen Intel(R) Core(TM) i7-12700K, and 48GB of RAM. I use it mainly gameMy favourite games are Call of Duty, Marvel Rivals and League of Legends. 
+I recently bought a custom built desktop computer off a friend. It has a NVIDIA RTX 3060 Ti, a 12th Gen Intel(R) Core(TM) i7-12700K, and 48GB of RAM. I use it mainly game. My favourite games are Call of Duty, Marvel Rivals and League of Legends. 
 
-I used to do practice [Judo](https://en.wikipedia.org/wiki/Judo). I got up to orange belt. I still remember how to count to ten in Japanese and many of the names of techniques!
+I used to do practice [Judo](https://en.wikipedia.org/wiki/Judo). My highest ranking was orange belt. I still remember how to count to ten in Japanese and many of the names of techniques!
 
 # Future Plans
 
-I would like to start a technical blog explaining foundational concepts in physics and chemistry. I would like to go to the U.S someday.
+I would like to start a technical blog explaining foundational concepts in physics and chemistry. I am planning to start engineering at Ontario Tech; after the general first year at Ontario Tech, I will probably declare my major as electrical engineering. Some day, I would like to go to the San Francisco, California.
