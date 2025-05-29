@@ -2,14 +2,11 @@
   <img src="/assets/img/profile.jpeg" alt="Mohamad Jad Chaker" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
 </div>
 
-# Contact
-You can contact me by email or through direct message on X linked at the bottom of this page.
-
 # About
-I was born in Dubai on July 22, 2002. I am ethnically Lebanese and lived in Bahrain for most of my youth. I stand one hundred and seventy two centimeters tall and weigh about sixty two kilograms. I currently reside in Barrie and will be moving to Oshawa.
+I was born in Dubai on July 22, 2002. I am ethnically Lebanese and lived in Bahrain. I stand one hundred and seventy two centimeters tall and weigh about sixty two kilograms. I currently reside in Barrie and will be moving to Oshawa.
 
 # Education
-Before I moved to Canada, I attended the International School of Chouefitat and the British School of Bahrain. After I moved to Canada, I attended Portage View Public School and Barrie North Collegiate Institute. In my senior year of high school, I took chemistry, physics, computer science, advanced functions, and calculus & vectors. After graduating, I went to Waterloo to pursue a Mathematical Physics degree.
+Before I moved to Canada, I attended the International School of Choueifat and the British School of Bahrain. After I moved to Canada, I attended Portage View Public School and Barrie North Collegiate Institute. In my senior year of high school, I took chemistry, physics, computer science, advanced functions, and calculus & vectors. After graduating, I went to Waterloo to pursue an undergraduate science degree in mathematical physics.
 
 I took credit for
 - MATH 136 (Linear Algebra 1 for Honours Mathematics)
@@ -38,7 +35,9 @@ I am a musician. I play the piano and the guitar. I have taken some lessons. My 
 
 I am a gamer. Recently, I bought a custom built desktop computer off a friend. It has a NVIDIA RTX 3060 Ti, a 12th Gen Intel(R) Core(TM) i7-12700K, and 48GB of RAM. My favourite games are Call of Duty, Marvel Rivals and League of Legends! 
 
-I used to do practice [Judo](https://en.wikipedia.org/wiki/Judo). My highest ranking was orange belt. I still remember how to count to ten in Japanese and many of the names of techniques!
+I used to practice [Judo](https://en.wikipedia.org/wiki/Judo). My highest ranking was orange belt. I still remember how to count to ten in Japanese and many of the names of techniques!
 
 # Future Plans
-I would like to start a technical blog explaining foundational concepts in physics and chemistry. I am planning to start engineering at Ontario Tech; after the general first year at Ontario Tech, I will probably declare my major as electrical engineering. Some day, I would like to go to the San Francisco, California.
+- Technical blog
+- Engineering at Ontario Tech University
+- Visit San Francisco, California.
