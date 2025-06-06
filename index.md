@@ -1,5 +1,5 @@
 ---
-title: "Mohamad Jad Chaker"
+title: "About"
 description: "Future engineering student at Ontario Tech University with interests in programming, music production, and gaming"
 image: "/assets/img/profile.jpeg"
 ---
