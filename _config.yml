@@ -29,7 +29,7 @@ minima:
     - title: "Snapchat Profile"
       icon: snapchat
       url: "https://snapchat.com/t/6csaTKqZ" 
-  nav_pages: []
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
