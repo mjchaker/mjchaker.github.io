@@ -1,6 +1,8 @@
-<div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/img/profile.jpeg" alt="Mohamad Jad Chaker" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
-</div>
+---
+title: "Mohamad Jad Chaker's - Polymath"
+description: "Future engineering student at Ontario Tech University with interests in programming, music production, and gaming"
+image: "/assets/img/profile.jpeg
+---
 
 # About
 I was born in Dubai on July 22, 2002. I am ethnically Lebanese and lived in Bahrain. I stand one hundred and seventy two centimeters tall and weigh about sixty two kilograms. I currently reside in Barrie and will be moving to Oshawa.

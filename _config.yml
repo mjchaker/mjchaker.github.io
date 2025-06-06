@@ -1,6 +1,9 @@
 remote_theme: jekyll/minima
 timezone: Canada/Eastern
-title: "Mohamad Jad Chaker's Personal Website"
+title: "Mohamad Jad Chaker"
+dsecription: "Future engineering student at Ontario Tech University. Passionate about programming, music, and gaming."
+image: "/assets/img/profile.jpeg"
+logo: "/assets/img/profile.jpeg"
 
 author:
   name: "Mohamad Jad Chaker"
