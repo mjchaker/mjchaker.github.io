@@ -11,9 +11,12 @@ minima:
     - title: "GitHub Profile"
       icon: github
       url: "https://github.com/mjchaker"
-    - title: "X (Twitter) Profile"
+    - title: "𝕏 (Twitter) Profile"
       icon: x-twitter
       url: "https://x.com/mjchaker"
+    - title: "Threads Profile"
+      icon: threads
+      url: "https://www.threads.com/@mjchaker"
 
 plugins:
   - jekyll-feed
