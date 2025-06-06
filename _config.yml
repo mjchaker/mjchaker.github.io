@@ -17,7 +17,15 @@ minima:
     - title: "Threads Profile"
       icon: threads
       url: "https://www.threads.com/@mjchaker"
-
+    - title: "Instagram Profile"
+      icon: instagram
+      url: "https://www.instagram.com/mjchaker/"
+    - title: "Bluesky Profile"
+      icon: bluesky
+      url: "https://bsky.app/profile/mjchaker.bsky.social"
+    - title: "Snapchat Profile"
+      icon: snapchat
+      url: "https://snapchat.com/t/6csaTKqZ" 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
