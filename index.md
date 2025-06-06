@@ -1,7 +1,7 @@
 ---
 title: "Mohamad Jad Chaker's - Polymath"
 description: "Future engineering student at Ontario Tech University with interests in programming, music production, and gaming"
-image: "/assets/img/profile.jpeg
+image: "/assets/img/profile.jpeg"
 ---
 
 # About
