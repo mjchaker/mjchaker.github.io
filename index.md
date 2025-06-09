@@ -2,7 +2,7 @@
 description: "Future engineering student at Ontario Tech University with interests in programming, music production, and gaming"
 image: "/assets/img/profile.jpeg"
 ---
-I was born in Dubai and lived in Bahrain. I am ethnically Lebanese and lived in Bahrain. I currently reside in Barrie and will be moving to Oshawa. I speak English, Arabic and some French.
+I was born in Dubai and I am ethnically Lebanese. I lived in Bahrain. I currently reside in Barrie and will be moving to Oshawa, Ontario. I speak English, Arabic and some French.
 # Education
 Before I moved to Canada, I attended the International School of Choueifat and the British School of Bahrain. After I moved to Canada, I attended Portage View Public School and Barrie North Collegiate Institute. In my senior year of high school, I took chemistry, physics, computer science, advanced functions, and calculus & vectors. After graduating, I went to Waterloo to pursue an undergraduate science degree in mathematical physics and now have a solid theoretical foundation in science. I am planning to start engineering at [Ontario Tech University](https://ontariotechu.ca).
 # Hobbies
