@@ -11,7 +11,7 @@ Before I moved to Canada, I attended the International School of Choueifat and t
 # Hobbies
 I am a musician. I play the piano and the guitar. I have taken some lessons. My favourite genres are rock, pop, and hip-hop music. I have a basic knowledge of musical theory; for example, I understand how to construct the seven different modes from the major scale. I have a strong working knowledge of the digital audio workstation [Logic Pro](https://www.apple.com/ca/logic-pro/). 
 
-I am a gamer. Recently, I bought a custom built desktop computer off a friend. It has a NVIDIA RTX 3060 Ti, a 12th Gen Intel(R) Core(TM) i7-12700K, and 48GB of RAM. My favourite games are Call of Duty, Marvel Rivals and League of Legends! 
+I am a gamer. Recently, I bought a custom built [desktop computer](/assets/img/computer.JPG) off a friend. It has a NVIDIA RTX 3060 Ti, a 12th Gen Intel(R) Core(TM) i7-12700K, and 48GB of RAM. My favourite games are Call of Duty, Marvel Rivals and League of Legends! 
 
 I was a martial artist ([Judo.](https://en.wikipedia.org/wiki/Judo)) My highest ranking was orange belt. I know a little Japanese.
 
