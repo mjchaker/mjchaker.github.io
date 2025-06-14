@@ -25,9 +25,6 @@ minima:
     - title: "Instagram Profile"
       icon: instagram
       url: "https://www.instagram.com/mjchaker/"
-    - title: "Bluesky Profile"
-      icon: bluesky
-      url: "https://bsky.app/profile/mjchaker.bsky.social"
     - title: "Snapchat Profile"
       icon: snapchat
       url: "https://snapchat.com/t/6csaTKqZ" 
