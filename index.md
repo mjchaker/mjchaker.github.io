@@ -11,8 +11,10 @@ I am a musician by nature. I play the piano and the guitar. My favourite musical
 I am a gamer. I have a high-end custom built [desktop computer](/assets/img/computer.JPG). For those interested, it has a NVIDIA RTX 3060 Ti, a 12th Gen Intel Core i7-12700K, and 48GB of RAM. My favourite games are Call of Duty, Marvel Rivals and League of Legends! 
 
 I was a martial artist ([Judo.](https://en.wikipedia.org/wiki/Judo)) My highest ranking was orange belt. I know a little Japanese.
+# Resume / CV
+[Here.](/assets/resume_public.pdf)
 # Software Projects
-My Git repository is linked at the bottom of the page.
+My Git repository is linked at the bottom of the page. <!-- TODO -->
 # Technical Skills
 - The programming languages I am familiar are C, Java, Python and [Scheme](https://www.scheme.org).  
 - Installation and configuration of various GNU/Linux distributions including Debian, Fedora and Gentoo on Intel machines.

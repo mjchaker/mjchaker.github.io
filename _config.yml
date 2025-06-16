@@ -27,7 +27,34 @@ minima:
       url: "https://www.instagram.com/mjchaker/"
     - title: "Snapchat Profile"
       icon: snapchat
-      url: "https://snapchat.com/t/6csaTKqZ" 
+      url: "https://snapchat.com/t/6csaTKqZ"
+    - title: "TikTok Profile"
+      icon: tiktok 
+      url: "https://www.tiktok.com/@mjchaker"
+    - title: "Facebook Page"
+      icon: facebook
+      url: "https://www.facebook.com/profile.php?id=61576851823964"
+    - title: "Bluesky Profile"
+      icon: bluesky
+      url: "https://bsky.app/profile/mjchaker.bsky.social"
+    - title: "WhatsApp Business"
+      icon: whatsapp
+      url: "https://wa.me/17052417456"
+    - title: "LinkedIn Profile"
+      icon: linkedin
+      url: "https://www.linkedin.com/in/mohamad-chaker-97454b1b3/"
+
+twitter:
+  username: mjchaker
+  card: summary
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/profile.jpeg
+
+google_analytics: G-6CHTQYN51R
 
 plugins:
   - jekyll-feed
