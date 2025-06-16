@@ -1,5 +1,5 @@
 ---
-description: "Future engineering student at Ontario Tech University with interests in programming, music production, and gaming"
+description: "Future engineering student at Ontario Tech University with interests in music and gaming."
 image: "/assets/img/profile.jpeg"
 ---
 I was born in Dubai and I am ethnically Lebanese. I lived in Bahrain. I currently reside in Barrie and will be moving to Oshawa, Ontario. I speak English, Arabic and some French.
