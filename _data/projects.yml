@@ -1,0 +1,18 @@
+- name: "mjchaker.github.io"
+  description: "Personal website built with Jekyll and hosted on GitHub Pages"
+  url: "https://github.com/mjchaker/mjchaker.github.io"
+  demo: "https://mjchaker.github.io"
+  technologies: ["Jekyll", "HTML", "CSS", "GitHub Pages"]
+  featured: true
+
+- name: "Quadratic Roots Calculator"
+  description: "A Java program that takes the coefficients of a quadratic function and prints the roots to standard output. It was made using the BlueJ IDE during my sophomore year of highschool."
+  url: "https://github.com/mjchaker/quadratic-roots-calculator"
+  technologies: ["Java"]
+  featured: true
+
+- name: "Racing Game" 
+  description: "A racing game with squares. It was written in Turing."
+  url: "https://github.com/mjchaker/racing-game"
+  technologies: ["Turing"]
+  featured: true
