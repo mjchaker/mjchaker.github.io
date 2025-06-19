@@ -1,0 +1,172 @@
+HOW TO WRITE BLOG POSTS FOR YOUR JEKYLL WEBSITE
+================================================
+
+This guide explains how to create new physics articles and blog posts for your Jekyll website.
+
+FILE NAMING CONVENTION
+----------------------
+All blog posts must be saved in the _posts/ directory with this exact naming format:
+
+    YYYY-MM-DD-title-of-your-post.md
+
+Examples:
+    2025-06-19-quantum-mechanics-introduction.md
+    2025-07-15-thermodynamics-explained.md
+    2025-08-03-special-relativity-basics.md
+
+REQUIRED FRONT MATTER
+---------------------
+Every post must start with YAML front matter between triple dashes (---).
+Here's the template:
+
+---
+layout: post
+title: "Your Article Title Here"
+date: 2025-06-19 12:00:00 -0500
+categories: physics quantum-mechanics thermodynamics
+tags: [physics, science, education, research]
+author: "Mohamad Jad Chaker"
+excerpt: "A brief 1-2 sentence description that appears in the blog listing."
+---
+
+FRONT MATTER FIELDS EXPLAINED
+------------------------------
+- layout: Always use "post" for blog articles
+- title: The main title of your article (use quotes)
+- date: Publication date and time (format: YYYY-MM-DD HH:MM:SS TIMEZONE)
+- categories: Space-separated categories (no quotes, lowercase with hyphens)
+- tags: Array format with brackets and quotes [tag1, tag2, tag3]
+- author: Your name (use quotes)
+- excerpt: Brief description shown on blog listing page (use quotes)
+
+WRITING YOUR CONTENT
+--------------------
+After the closing --- of the front matter, write your article content using Markdown:
+
+# Main Heading
+## Sub Heading
+### Smaller Heading
+
+**Bold text**
+*Italic text*
+
+- Bullet point 1
+- Bullet point 2
+
+1. Numbered list item 1
+2. Numbered list item 2
+
+[Link text](https://example.com)
+
+![Image alt text](/assets/images/your-image.jpg)
+
+For mathematical equations, you can use LaTeX notation:
+$$E = mc^2$$
+
+Or inline math: $F = ma$
+
+CODE BLOCKS
+-----------
+For code examples:
+
+```python
+def example_function():
+    return "Hello, World!"
+```
+
+Or inline code: `variable_name`
+
+PHYSICS-SPECIFIC FORMATTING
+---------------------------
+For physics content, consider using:
+
+- Greek letters: α, β, γ, δ, ε, ζ, η, θ, ι, κ, λ, μ, ν, ξ, ο, π, ρ, σ, τ, υ, φ, χ, ψ, ω
+- Mathematical symbols: ∞, ∑, ∏, ∫, ∂, ∇, ±, ≈, ≠, ≤, ≥
+- Units: Use proper notation like m/s², kg⋅m/s², etc.
+
+CATEGORIES AND TAGS SUGGESTIONS
+-------------------------------
+Common categories for physics posts:
+- physics
+- quantum-mechanics
+- thermodynamics
+- electromagnetism
+- classical-mechanics
+- relativity
+- particle-physics
+- astrophysics
+- optics
+- materials-science
+
+Common tags:
+- [physics, science, education]
+- [quantum, mechanics, theory]
+- [thermodynamics, heat, energy]
+- [relativity, einstein, spacetime]
+- [experiments, laboratory, research]
+
+PUBLISHING WORKFLOW
+-------------------
+1. Create your .md file in _posts/ with proper naming
+2. Add the required front matter
+3. Write your content in Markdown
+4. Save the file
+5. Commit and push to GitHub (the site builds automatically)
+6. Your post will appear at: yoursite.com/blog/YYYY/MM/DD/title/
+
+TIPS FOR BETTER POSTS
+---------------------
+- Use descriptive titles that clearly indicate the topic
+- Write engaging excerpts that make people want to read more
+- Break up long text with headings, bullet points, and images
+- Include relevant tags to help readers find related content
+- Preview your post locally before publishing if possible
+- Use consistent formatting and style across all posts
+
+EXAMPLE POST STRUCTURE
+----------------------
+---
+layout: post
+title: "Understanding Wave-Particle Duality in Quantum Mechanics"
+date: 2025-06-20 10:00:00 -0500
+categories: physics quantum-mechanics
+tags: [physics, quantum, waves, particles, duality]
+author: "Mohamad Jad Chaker"
+excerpt: "Exploring how matter and energy exhibit both wave and particle properties, one of the most fascinating concepts in modern physics."
+---
+
+# Understanding Wave-Particle Duality
+
+Wave-particle duality is one of the fundamental concepts in quantum mechanics...
+
+## Historical Background
+
+The concept was first proposed by...
+
+## Mathematical Description
+
+The wave function ψ(x,t) describes...
+
+## Experimental Evidence
+
+Famous experiments that demonstrate this duality include:
+
+1. **Double-slit experiment**
+2. **Photoelectric effect**
+3. **Compton scattering**
+
+## Conclusion
+
+Wave-particle duality challenges our classical understanding...
+
+NEED HELP?
+----------
+If you need assistance with:
+- Markdown formatting
+- Mathematical notation
+- Adding images
+- Technical issues
+
+Check the Jekyll documentation or ask for help!
+
+Remember: Save this file for future reference when writing new posts!

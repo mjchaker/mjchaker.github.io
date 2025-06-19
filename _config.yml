@@ -49,13 +49,13 @@ minima:
       icon: telegram
       url: "https://t.me/mjchaker"
     - title: "Element (Matrix)"
-      icon: matrix
+      icon: comments
       url: "https://matrix.to/#/@mynameismohamad:matrix.org"
     - title: "Discord Server"
       icon: discord
       url: "https://discord.gg/zkNXckDrm3"
     - title: "Signal"
-      icon: signal
+      icon: signal-messenger
       url: "https://signal.me/#eu/fVGnwtw3y-siu_Q-iIgM0y-IfDVsqPB5EqYioP2SnCpaYZbKaQtGYJEUjIaRSZfQ"
 
 twitter:
@@ -75,8 +75,23 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Blog settings
+permalink: /blog/:year/:month/:day/:title/
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Excerpt settings
+excerpt_separator: <!--more-->
+
+# Markdown and math settings
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 header_pages:
   - about.md
   - projects.md
   - skills.md
+  - blog.md
   - faq-page.md
