@@ -42,6 +42,21 @@ minima:
     - title: "LinkedIn Profile"
       icon: linkedin
       url: "https://www.linkedin.com/in/mohamad-chaker-97454b1b3/"
+    - title: "Mastodon Profile"
+      icon: mastodon
+      url: "https://mastodon.social/@mjchaker"
+    - title: "Telegram"
+      icon: telegram
+      url: "https://t.me/mjchaker"
+    - title: "Element (Matrix)"
+      icon: matrix
+      url: "https://matrix.to/#/@mynameismohamad:matrix.org"
+    - title: "Discord Server"
+      icon: discord
+      url: "https://discord.gg/zkNXckDrm3"
+    - title: "Signal"
+      icon: signal
+      url: "https://signal.me/#eu/fVGnwtw3y-siu_Q-iIgM0y-IfDVsqPB5EqYioP2SnCpaYZbKaQtGYJEUjIaRSZfQ"
 
 twitter:
   username: mjchaker
