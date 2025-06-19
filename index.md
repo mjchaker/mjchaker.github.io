@@ -13,3 +13,4 @@ Explore the different sections to learn more about me:
 - [About](/about/) - My background, education, and hobbies
 - [Projects](/projects/) - My software development work
 - [Technical Skills](/skills/) - Programming languages and technical expertise
+- [FAQ](/faq/) - Frequently asked questions
