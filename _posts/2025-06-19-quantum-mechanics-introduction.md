@@ -25,12 +25,7 @@ Quantum systems can exist in multiple states simultaneously until they are measu
 
 ## Mathematical Framework
 
-The behavior of quantum systems is described by the Schrödinger equation:
-$$i\hbar \frac{\partial\psi}{\partial t} = \hat{H}\psi$$
-Where:
-- $\psi$ (psi) is the wave function
-- $\hbar$ (h-bar) is the reduced Planck constant
-- $\Hat{H}$ is the Hamiltonian operator
+The behavior of quantum systems is described by the Schrödinger equation, $i\hbar \frac{\partial\psi}{\partial t} = \hat{H}\psi$, where $\psi$ (psi) is the wave function, $\hbar$ (h-bar) is the reduced Planck constant and $\hat{H}$ is the Hamiltonian operator.
 
 ## Applications
 

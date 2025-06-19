@@ -49,7 +49,7 @@ minima:
       icon: telegram
       url: "https://t.me/mjchaker"
     - title: "Element (Matrix)"
-      icon: comments
+      icon: comment-dots
       url: "https://matrix.to/#/@mynameismohamad:matrix.org"
     - title: "Discord Server"
       icon: discord
