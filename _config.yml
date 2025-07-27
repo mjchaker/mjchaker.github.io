@@ -57,6 +57,12 @@ minima:
     - title: "Signal"
       icon: signal-messenger
       url: "https://signal.me/#eu/fVGnwtw3y-siu_Q-iIgM0y-IfDVsqPB5EqYioP2SnCpaYZbKaQtGYJEUjIaRSZfQ"
+    - title: "Spotify Profile"
+      icon: spotify
+      url: "https://open.spotify.com/artist/4V2A65rOlzR60eLXWlvV8B?si=kwj0SQPZRJitY62WES5Otg"
+    - title: "Apple Music Profile"
+      icon: apple
+      url: "https://music.apple.com/profile/mjchaker"
 
 twitter:
   username: mjchaker
@@ -93,5 +99,9 @@ header_pages:
   - about.md
   - projects.md
   - skills.md
+  - artist.md
   - blog.md
   - faq-page.md
+
+exclude:
+  - CLAUDE.md

@@ -78,6 +78,29 @@ bundle exec jekyll build
 - **Blog Articles**: Created in `_posts/` with proper Jekyll front matter
 - **Assets**: Profile images in `assets/img/`, resume at `assets/resume_public.pdf`
 
+## Commit Message Guidelines
+
+Follow these conventions for clear, descriptive commit messages:
+
+**Format**: Use imperative mood with descriptive action
+- ✅ "Add RSS feed meta tag for proper RSS reader detection"
+- ✅ "Fix Matrix icon compatibility with Font Awesome brands"
+- ✅ "Update blog post with corrected LaTeX equation formatting"
+- ❌ "yeet", "IDK", "Changes!", "Updates", "GOOD NIGHT!!!"
+
+**Structure**: 
+- First line: Brief summary (50 chars or less)
+- Blank line
+- Detailed explanation if needed
+- Include "🤖 Generated with [Claude Code]" footer when applicable
+
+**Categories**: Use clear action verbs
+- `Add` - New features, files, or functionality
+- `Fix` - Bug fixes, corrections, or repairs  
+- `Update` - Modifications to existing content/features
+- `Remove` - Deletions
+- `Refactor` - Code/structure improvements without feature changes
+
 ## Deployment
 
 The site is automatically deployed to GitHub Pages when changes are pushed to the main branch. No manual build or deployment steps are required. RSS feed updates automatically when new blog posts are published.
