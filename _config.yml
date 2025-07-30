@@ -11,6 +11,7 @@ author:
   email: "contact@chaker.tech"
 
 minima:
+  skin: auto
   social_links:
     - title: "GitHub Profile"
       icon: github
