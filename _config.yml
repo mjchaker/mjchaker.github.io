@@ -1,88 +1,124 @@
+# ==============================================================================
+# SITE CONFIGURATION
+# ==============================================================================
+
+# Theme and basic settings
 remote_theme: jekyll/minima
 timezone: Canada/Eastern
 title: "Mohamad Jad Chaker"
-image: "/assets/img/profile.jpeg"
-logo: "/assets/img/profile.jpeg"
 url: "https://mjchaker.github.io"
 baseurl: ""
 
+# Site branding and images
+image: "/assets/img/profile.jpeg"
+logo: "/assets/img/profile.jpeg"
+
+# Author information
 author:
   name: "Mohamad Jad Chaker"
   email: "contact@chaker.tech"
 
+# ==============================================================================
+# THEME CONFIGURATION
+# ==============================================================================
+
 minima:
   skin: auto
   social_links:
+    # Professional platforms
     - title: "GitHub Profile"
       icon: github
       url: "https://github.com/mjchaker"
-    - title: "𝕏 (Twitter) Profile"
-      icon: x-twitter
-      url: "https://x.com/mjchaker"
-    - title: "Threads Profile"
-      icon: threads
-      url: "https://www.threads.com/@mjchaker"
-    - title: "Instagram Profile"
-      icon: instagram
-      url: "https://www.instagram.com/mjchaker/"
-    - title: "Snapchat Profile"
-      icon: snapchat
-      url: "https://snapchat.com/t/6csaTKqZ"
-    - title: "TikTok Profile"
-      icon: tiktok 
-      url: "https://www.tiktok.com/@mjchaker"
-    - title: "Facebook Page"
-      icon: facebook
-      url: "https://www.facebook.com/profile.php?id=61576851823964"
-    - title: "Bluesky Profile"
-      icon: bluesky
-      url: "https://bsky.app/profile/mjchaker.bsky.social"
-    - title: "WhatsApp Business"
-      icon: whatsapp
-      url: "https://wa.me/17052417456"
     - title: "LinkedIn Profile"
       icon: linkedin
       url: "https://www.linkedin.com/in/mohamad-chaker-97454b1b3/"
-    - title: "Mastodon Profile"
-      icon: mastodon
-      url: "https://mastodon.social/@mjchaker"
-    - title: "Telegram"
-      icon: telegram
-      url: "https://t.me/mjchaker"
-    - title: "Element (Matrix)"
-      icon: rocketchat
-      url: "https://matrix.to/#/@mynameismohamad:matrix.org"
+    
+    # Social media platforms
+    - title: "𝕏 (Twitter) Profile"
+      icon: x-twitter
+      url: "https://x.com/mjchaker"
+    - title: "Bluesky Profile"
+      icon: bluesky
+      url: "https://bsky.app/profile/mjchaker.bsky.social"
     - title: "Discord Server"
       icon: discord
       url: "https://discord.gg/zkNXckDrm3"
+    - title: "Facebook Page"
+      icon: facebook
+      url: "https://www.facebook.com/profile.php?id=61576851823964"
+    - title: "Instagram Profile"
+      icon: instagram
+      url: "https://www.instagram.com/mjchaker/"
+    - title: "Mastodon Profile"
+      icon: mastodon
+      url: "https://mastodon.social/@mjchaker"
+    - title: "Snapchat Profile"
+      icon: snapchat
+      url: "https://snapchat.com/t/6csaTKqZ"
+    - title: "Threads Profile"
+      icon: threads
+      url: "https://www.threads.com/@mjchaker"
+    - title: "TikTok Profile"
+      icon: tiktok 
+      url: "https://www.tiktok.com/@mjchaker"
+    
+    # Messaging platforms
+    - title: "Element (Matrix)"
+      icon: rocketchat
+      url: "https://matrix.to/#/@mynameismohamad:matrix.org"
     - title: "Signal"
       icon: signal-messenger
       url: "https://signal.me/#eu/fVGnwtw3y-siu_Q-iIgM0y-IfDVsqPB5EqYioP2SnCpaYZbKaQtGYJEUjIaRSZfQ"
-    - title: "Spotify Profile"
-      icon: spotify
-      url: "https://open.spotify.com/artist/4V2A65rOlzR60eLXWlvV8B?si=kwj0SQPZRJitY62WES5Otg"
+    - title: "Telegram"
+      icon: telegram
+      url: "https://t.me/mjchaker"
+    - title: "WhatsApp Business"
+      icon: whatsapp
+      url: "https://wa.me/17052417456"
+    
+    # Music platforms
     - title: "Apple Music Profile"
       icon: apple
       url: "https://music.apple.com/ca/artist/mohamad-jad-chaker/1824209663"
+    - title: "Spotify Profile"
+      icon: spotify
+      url: "https://open.spotify.com/artist/4V2A65rOlzR60eLXWlvV8B?si=kwj0SQPZRJitY62WES5Otg"
+
+# ==============================================================================
+# SEO AND SOCIAL MEDIA
+# ==============================================================================
 
 twitter:
   username: mjchaker
   card: summary
 
+# Default image for all pages
 defaults:
   - scope:
       path: ""
     values:
       image: /assets/img/profile.jpeg
 
+# ==============================================================================
+# ANALYTICS AND TRACKING
+# ==============================================================================
+
 google_analytics: G-6CHTQYN51R
+
+# ==============================================================================
+# PLUGINS
+# ==============================================================================
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Blog settings
+# ==============================================================================
+# BLOG CONFIGURATION
+# ==============================================================================
+
+# URL structure for blog posts
 permalink: /blog/:year/:month/:day/:title/
 paginate: 10
 paginate_path: "/blog/page:num/"
@@ -90,11 +126,19 @@ paginate_path: "/blog/page:num/"
 # Excerpt settings
 excerpt_separator: <!--more-->
 
+# ==============================================================================
+# CONTENT PROCESSING
+# ==============================================================================
+
 # Markdown and math settings
 markdown: kramdown
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+# ==============================================================================
+# NAVIGATION
+# ==============================================================================
 
 header_pages:
   - about.md
@@ -103,6 +147,10 @@ header_pages:
   - artist.md
   - blog.md
   - faq-page.md
+
+# ==============================================================================
+# BUILD SETTINGS
+# ==============================================================================
 
 exclude:
   - CLAUDE.md

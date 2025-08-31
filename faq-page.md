@@ -7,13 +7,13 @@ permalink: /faq/
 ## Education
 
 ### What are you studying?
-I'm planning to study engineering at Ontario Tech University. My educational background includes coursework in mathematics, physics, chemistry, and English from the University of Waterloo.
+I'm currently pursuing comprehensive engineering at Ontario Tech University. My educational background includes an undergraduate science degree in mathematical physics from the University of Waterloo, which has given me a solid theoretical foundation in science.
 
 ### Why did you choose engineering?
 Engineering combines my passion for technology with problem-solving. It allows me to apply mathematical and scientific principles to create practical solutions that can make a real impact.
 
 ### What math courses have you taken?
-At the University of Waterloo, I've completed several mathematics courses that have prepared me for engineering studies. These courses have given me a strong foundation in calculus, linear algebra, and other mathematical concepts essential for engineering.
+During high school, I took advanced functions and calculus & vectors. At the University of Waterloo, I completed an undergraduate science degree in mathematical physics, which provided comprehensive mathematics coursework including calculus, linear algebra, and advanced mathematical concepts essential for engineering.
 
 ## Technical Background
 
@@ -24,30 +24,35 @@ Please check out my [Technical Skills](/skills/) page for a comprehensive list o
 I've worked on various software development projects. You can find detailed information about my work on my [Projects](/projects/) page.
 
 ### What development environment do you use?
-I work on a 13.3 inch M1 MacBook Pro with 8GB of RAM running macOS 15. This setup provides excellent performance for development work and is particularly efficient for compiling and running code.
-
+My preffered integrated development environment is Cursor paired with Claude Code. For quick edits, Sublime Text 4 is nice.
 ## Personal Interests
 
 ### What are your hobbies outside of programming?
-I'm passionate about music and gaming. These interests complement my technical pursuits by providing creative outlets and helping me understand user experience from different perspectives.
+I'm a musician by nature - I play piano and guitar. My favorite musical genres are rock, pop, and hip-hop. Currently, my favorite hip-hop album is _Let God Sort 'Em Out_ by Clipse. I have strong working knowledge of Logic Pro for music production.
+
+I'm also a gamer with a high-end custom desktop (NVIDIA RTX 3060 Ti, 12th Gen Intel Core i7-12700K, 48GB RAM). My favorite games are Call of Duty, Marvel Rivals, and League of Legends.
+
+I was also a martial artist (Judo) with an orange belt ranking, and I know a little Japanese.
 
 ### How do music and gaming relate to your engineering interests?
-Both music and gaming involve complex systems and patterns. Music theory shares mathematical principles with programming, while gaming requires understanding of physics engines, graphics rendering, and user interaction design—all relevant to engineering and software development.
+Music production with Logic Pro involves signal processing, acoustics, and digital audio principles that directly relate to engineering. Gaming on high-end hardware requires understanding of physics engines, graphics rendering, and system optimization—all relevant to engineering and software development. Music theory also shares mathematical principles with programming and engineering problem-solving.
 
 ## Career & Future Plans
 
 ### What type of engineering role are you looking for?
-I'm interested in roles that combine software development with engineering principles. I'm particularly drawn to positions where I can apply my technical skills to solve real-world problems.
+I'm interested in comprehensive engineering roles that combine my mathematical physics background with practical problem-solving. I'm particularly drawn to positions where I can apply my technical skills and theoretical foundation to solve real-world engineering challenges.
 
 ### Are you available for internships or co-op positions?
-As a future engineering student, I'm actively seeking opportunities to gain practical experience through internships or co-op positions. Feel free to reach out via my [contact information](/).
+As a current engineering student at Ontario Tech University, I'm actively seeking opportunities to gain practical experience through internships or co-op positions. Feel free to reach out via my [contact information](/).
 
 ### What makes you a good candidate for engineering positions?
 My combination of:
-- Strong mathematical and scientific foundation from University of Waterloo
+- Strong theoretical foundation with a mathematical physics degree from University of Waterloo
+- Current comprehensive engineering studies at Ontario Tech University
 - Practical programming experience through personal projects
+- Creative problem-solving skills developed through music production and gaming
+- Multicultural background (Lebanese, lived in Dubai and Bahrain) bringing diverse perspectives
 - Passion for technology and continuous learning
-- Creative problem-solving skills developed through music and gaming
 
 ## Contact & Availability
 
@@ -57,8 +62,8 @@ You can reach me through various channels:
 - LinkedIn: [My Profile](https://www.linkedin.com/in/mohamad-chaker-97454b1b3/)
 - GitHub: [mjchaker](https://github.com/mjchaker)
 
-### Are you open to remote work?
-Yes, I'm comfortable with remote work and have the necessary setup with my MacBook Pro to work effectively from anywhere.
+### Where are you based?
+I currently reside in Oshawa, Ontario, where I'm studying at Ontario Tech University. I'm comfortable with both local and remote work arrangements.
 
 ### What's your preferred method of communication?
 Email is best for initial contact and formal communications. For quick discussions, I'm also available on LinkedIn.
