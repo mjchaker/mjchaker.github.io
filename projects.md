@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: "Software projects and development work."
-image: "/assets/img/profile.jpeg"
+image: "/assets/images/profile.jpeg"
 ---
 
 ## Featured Projects

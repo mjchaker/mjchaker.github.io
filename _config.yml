@@ -10,8 +10,8 @@ url: "https://mjchaker.github.io"
 baseurl: ""
 
 # Site branding and images
-image: "/assets/img/profile.jpeg"
-logo: "/assets/img/profile.jpeg"
+image: "/assets/images/profile.jpeg"
+logo: "/assets/images/profile.jpeg"
 
 # Author information
 author:
@@ -97,7 +97,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/profile.jpeg
+      image: /assets/images/profile.jpeg
 
 # ==============================================================================
 # ANALYTICS AND TRACKING
