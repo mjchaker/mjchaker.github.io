@@ -4,7 +4,7 @@ title: "The International Year of Quantum Science: 100 Years Since Heisenberg"
 date: 2025-08-21 12:00:00 -0000
 categories: physics
 tags: [quantum, physics, science, heisenberg, quantum-mechanics]
-author: "Mohamad Jad Chaker"
+author: "Mohamad Jad Chaker, Claude"
 excerpt: "Exploring the quantum breakthroughs of 2025 as we celebrate the centennial of Werner Heisenberg's revolutionary quantum mechanics framework."
 ---
 

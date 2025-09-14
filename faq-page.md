@@ -7,13 +7,13 @@ permalink: /faq/
 ## Education
 
 ### What are you studying?
-I'm currently pursuing comprehensive engineering at Ontario Tech University. My educational background includes an undergraduate science degree in mathematical physics from the University of Waterloo, which has given me a solid theoretical foundation in science.
+I'm currently pursuing comprehensive engineering at Ontario Tech University. My educational background includes first year coursework in mathematical physics from the University of Waterloo, which has given me a solid theoretical foundation in science.
 
 ### Why did you choose engineering?
-Engineering combines my passion for technology with problem-solving. It allows me to apply mathematical and scientific principles to create practical solutions that can make a real impact.
+I hope that I will be able to apply mathematical and scientific principles to create practical solutions that can make a real impact.
 
 ### What math courses have you taken?
-During high school, I took advanced functions and calculus & vectors. At the University of Waterloo, I completed an undergraduate science degree in mathematical physics, which provided comprehensive mathematics coursework including calculus, linear algebra, and advanced mathematical concepts essential for engineering.
+During high school, I took advanced functions and calculus & vectors. At the University of Waterloo, I completed first-year course work in mathematical physics, which provided comprehensive mathematics coursework including calculus, linear algebra, and advanced mathematical concepts essential for engineering.
 
 ## Technical Background
 
@@ -21,18 +21,18 @@ During high school, I took advanced functions and calculus & vectors. At the Uni
 Please check out my [Technical Skills](/skills/) page for a comprehensive list of programming languages and technologies I work with.
 
 ### What kind of projects have you worked on?
-I've worked on various software development projects. You can find detailed information about my work on my [Projects](/projects/) page.
+You can find detailed information about my work on my [Projects](/projects/) page.
 
 ### What development environment do you use?
-My preffered integrated development environment is Cursor paired with Claude Code. For quick edits, Sublime Text 4 is nice.
+My preferred integrated development environment is Cursor paired with Claude Code. For quick edits, Sublime Text 4 is nice.
 ## Personal Interests
 
 ### What are your hobbies outside of programming?
 I'm a musician by nature - I play piano and guitar. My favorite musical genres are rock, pop, and hip-hop. Currently, my favorite hip-hop album is _Let God Sort 'Em Out_ by Clipse. I have strong working knowledge of Logic Pro for music production.
 
-I'm also a gamer with a high-end custom desktop (NVIDIA RTX 3060 Ti, 12th Gen Intel Core i7-12700K, 48GB RAM). My favorite games are Call of Duty, Marvel Rivals, and League of Legends.
+I'm also a gamer with a high-end custom desktop (NVIDIA RTX 3060 Ti, 12th Gen Intel Core i7-12700K, 48GB RAM). My favorite games are Marvel Rivals and League of Legends.
 
-I was also a martial artist (Judo) with an orange belt ranking, and I know a little Japanese.
+I was also a martial artist (Judo) with an orange belt ranking. I know a little Japanese.
 
 ### How do music and gaming relate to your engineering interests?
 Music production with Logic Pro involves signal processing, acoustics, and digital audio principles that directly relate to engineering. Gaming on high-end hardware requires understanding of physics engines, graphics rendering, and system optimization—all relevant to engineering and software development. Music theory also shares mathematical principles with programming and engineering problem-solving.
@@ -47,7 +47,7 @@ As a current engineering student at Ontario Tech University, I'm actively seekin
 
 ### What makes you a good candidate for engineering positions?
 My combination of:
-- Strong theoretical foundation with a mathematical physics degree from University of Waterloo
+- Strong theoretical foundation with first-year coursework in mathematical physics degree from University of Waterloo
 - Current comprehensive engineering studies at Ontario Tech University
 - Practical programming experience through personal projects
 - Creative problem-solving skills developed through music production and gaming
