@@ -43,15 +43,9 @@ minima:
     - title: "Discord Server"
       icon: discord
       url: "https://discord.gg/zkNXckDrm3"
-    - title: "Facebook Page"
-      icon: facebook
-      url: "https://www.facebook.com/profile.php?id=61576851823964"
     - title: "Instagram Profile"
       icon: instagram
       url: "https://www.instagram.com/mjchaker/"
-    - title: "Mastodon Profile"
-      icon: mastodon
-      url: "https://mastodon.social/@mjchaker"
     - title: "Snapchat Profile"
       icon: snapchat
       url: "https://snapchat.com/t/6csaTKqZ"
@@ -59,30 +53,11 @@ minima:
       icon: threads
       url: "https://www.threads.com/@mjchaker"
     - title: "TikTok Profile"
-      icon: tiktok 
+      icon: tiktok
       url: "https://www.tiktok.com/@mjchaker"
-    
-    # Messaging platforms
-    - title: "Element (Matrix)"
-      icon: rocketchat
-      url: "https://matrix.to/#/@mynameismohamad:matrix.org"
-    - title: "Signal"
-      icon: signal-messenger
-      url: "https://signal.me/#eu/fVGnwtw3y-siu_Q-iIgM0y-IfDVsqPB5EqYioP2SnCpaYZbKaQtGYJEUjIaRSZfQ"
-    - title: "Telegram"
-      icon: telegram
-      url: "https://t.me/mjchaker"
-    - title: "WhatsApp Business"
-      icon: whatsapp
-      url: "https://wa.me/17052417456"
-    
-    # Music platforms
-    - title: "Apple Music Profile"
-      icon: apple
-      url: "https://music.apple.com/ca/artist/mohamad-jad-chaker/1824209663"
-    - title: "Spotify Profile"
-      icon: spotify
-      url: "https://open.spotify.com/artist/4V2A65rOlzR60eLXWlvV8B?si=kwj0SQPZRJitY62WES5Otg"
+    - title: "YouTube Channel"
+      icon: youtube
+      url: "https://www.youtube.com/@mjchaker"
 
 # ==============================================================================
 # SEO AND SOCIAL MEDIA
