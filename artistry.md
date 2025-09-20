@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Artist
-permalink: /artist/
+title: Artistry
+permalink: /artistry/
 ---
 
 # Music & Singles
