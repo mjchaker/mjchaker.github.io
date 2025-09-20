@@ -119,13 +119,9 @@ header_pages:
   - about.md
   - artistry.md
   - blog.md
+  - resume.md
   - faq-page.md
 
-# Custom navbar links
-navbar_links:
-  - title: "Resume"
-    url: "/assets/documents/resume_public.pdf"
-    external: true
 
 # ==============================================================================
 # BUILD SETTINGS
