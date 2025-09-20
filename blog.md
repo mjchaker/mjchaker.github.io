@@ -3,11 +3,6 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-
-# Physics & Science Articles
-
-Welcome to my blog where I share insights, explanations, and thoughts about physics, science, and technology.
-
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
