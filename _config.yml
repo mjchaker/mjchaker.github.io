@@ -5,18 +5,12 @@
 # Theme and basic settings
 remote_theme: jekyll/minima
 timezone: Canada/Eastern
-title: "Mohamad Jad Chaker"
 url: "https://mjchaker.github.io"
 baseurl: ""
 
 # Site branding and images
 image: "/assets/images/profile.jpeg"
 logo: "/assets/images/profile.jpeg"
-
-# Author information
-author:
-  name: "Mohamad Jad Chaker"
-  email: "contact@chaker.tech"
 
 # ==============================================================================
 # THEME CONFIGURATION
