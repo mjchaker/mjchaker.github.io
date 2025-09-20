@@ -117,9 +117,7 @@ kramdown:
 
 header_pages:
   - about.md
-  - projects.md
-  - skills.md
-  - artist.md
+  - artistry.md
   - blog.md
   - faq-page.md
 

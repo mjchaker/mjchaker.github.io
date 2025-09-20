@@ -16,13 +16,4 @@ Welcome to my music page! Here you can listen to my latest singles on your favor
 ### Stream on Apple Music
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/ca/artist/mohamad-jad-chaker/1824209663"></iframe>
 
-## Connect With Me
-
-Follow me on social media for updates on new releases and behind-the-scenes content:
-
-- **Spotify**: [Mohamad Jad Chaker](https://open.spotify.com/artist/4V2A65rOlzR60eLXWlvV8B?si=kwj0SQPZRJitY62WES5Otg)
-- **Apple Music**: [Mohamad Jad Chaker](https://music.apple.com/ca/artist/mohamad-jad-chaker/1824209663)
-- **Instagram**: [@mjchaker](https://www.instagram.com/mjchaker/)
-- **TikTok**: [@mjchaker](https://www.tiktok.com/@mjchaker)
-
 *More singles coming soon! Stay tuned for updates.*
