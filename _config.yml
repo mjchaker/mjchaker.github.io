@@ -5,8 +5,10 @@
 # Theme and basic settings
 remote_theme: jekyll/minima
 timezone: Canada/Eastern
+title: "Mohamad Jad Chaker"
 url: "https://mjchaker.github.io"
 baseurl: ""
+description: ""
 
 # Site branding and images
 image: "/assets/images/profile.jpeg"
@@ -109,12 +111,7 @@ kramdown:
 # NAVIGATION
 # ==============================================================================
 
-header_pages:
-  - about.md
-  - artistry.md
-  - blog.md
-  - resume.md
-  - faq-page.md
+header_pages: []
 
 
 # ==============================================================================

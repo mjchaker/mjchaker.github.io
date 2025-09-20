@@ -8,11 +8,11 @@ image: "/assets/images/profile.jpeg"
 </div>
 
 <div style="text-align: center; margin-top: 30px;">
-  <nav style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <a href="/about/" style="text-decoration: none; color: #333; padding: 10px 15px; border: 1px solid #ddd; border-radius: 5px; transition: background-color 0.3s;">About</a>
-    <a href="/artist/" style="text-decoration: none; color: #333; padding: 10px 15px; border: 1px solid #ddd; border-radius: 5px; transition: background-color 0.3s;">Artist</a>
-    <a href="/blog/" style="text-decoration: none; color: #333; padding: 10px 15px; border: 1px solid #ddd; border-radius: 5px; transition: background-color 0.3s;">Blog</a>
-    <a href="/resume/" style="text-decoration: none; color: #333; padding: 10px 15px; border: 1px solid #ddd; border-radius: 5px; transition: background-color 0.3s;">Resume</a>
-    <a href="/faq/" style="text-decoration: none; color: #333; padding: 10px 15px; border: 1px solid #ddd; border-radius: 5px; transition: background-color 0.3s;">FAQ</a>
+  <nav style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <a href="/about/" style="text-decoration: none; color: #333; padding: 12px 20px; border: 1px solid #ddd; border-radius: 5px; transition: background-color 0.3s; min-width: 120px;">About</a>
+    <a href="/artist/" style="text-decoration: none; color: #333; padding: 12px 20px; border: 1px solid #ddd; border-radius: 5px; transition: background-color 0.3s; min-width: 120px;">Artist</a>
+    <a href="/blog/" style="text-decoration: none; color: #333; padding: 12px 20px; border: 1px solid #ddd; border-radius: 5px; transition: background-color 0.3s; min-width: 120px;">Blog</a>
+    <a href="/resume/" style="text-decoration: none; color: #333; padding: 12px 20px; border: 1px solid #ddd; border-radius: 5px; transition: background-color 0.3s; min-width: 120px;">Resume</a>
+    <a href="/faq/" style="text-decoration: none; color: #333; padding: 12px 20px; border: 1px solid #ddd; border-radius: 5px; transition: background-color 0.3s; min-width: 120px;">FAQ</a>
   </nav>
 </div>
