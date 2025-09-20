@@ -3,8 +3,6 @@ description: "Future engineering student at Ontario Tech University with interes
 image: "/assets/images/profile.jpeg"
 ---
 
-<div style="text-align: center; margin-bottom: 30px;">
+<div style="display: flex; justify-content: center; align-items: center; min-height: 50vh; margin-bottom: 30px;">
   <img src="/assets/images/profile.jpeg" alt="Mohamad Jad Chaker" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #e8e8e8;">
 </div>
-
-Welcome! I'm Mo, an engineering student with a passion for music.

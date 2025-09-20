@@ -8,17 +8,9 @@ image: "/assets/images/profile.jpeg"
 
 - My birthday is July 22 2002.
 - I speak English, Arabic and French.
-- I reside in Oshawa.
 - My pronouns are he/him/his.
+- I live in Oshawa.
+- I study engineering at Ontario Tech University.
 - I have two cats.
-
-## Education
-I have an Ontario Secondary School Diploma from Barrie North Collegiate Institute.
-
-## Hobbies
-I play the piano and the [guitar.](assets/images/guitar.jpeg) I also sing. My favourite musical genres are rock, pop, and hip-hop.
-
-I game. Here is my [desktop.](/assets/images/computer.JPG).
-
-## Resume / CV
-[Here.](/assets/documents/resume_public.pdf)
+- I play piano & guitar.
+- I play League of Legends.
