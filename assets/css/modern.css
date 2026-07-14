@@ -114,6 +114,56 @@ body {
   opacity: 0.88;
 }
 
+.posts {
+  display: grid;
+  gap: 0.9rem;
+  margin: 0.9rem 0 2rem;
+}
+
+.post {
+  padding: 1.25rem;
+  border-radius: 14px;
+  border: 1px solid rgba(100, 116, 139, 0.28);
+  background: rgba(148, 163, 184, 0.08);
+}
+
+.post h2 {
+  margin: 0 0 0.35rem;
+  font-size: 1.3rem;
+}
+
+.post h2 a {
+  text-decoration: none;
+}
+
+.post h2 a:hover {
+  text-decoration: underline;
+}
+
+.post-meta {
+  margin: 0 0 0.6rem;
+  font-size: 0.85rem;
+  opacity: 0.75;
+}
+
+.post-excerpt {
+  font-size: 0.95rem;
+  opacity: 0.88;
+}
+
+.post-excerpt p {
+  margin: 0 0 0.6rem;
+}
+
+.read-more {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 720px) {
   .hero {
     grid-template-columns: 1fr;
