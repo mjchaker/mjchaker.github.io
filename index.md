@@ -41,15 +41,15 @@ image: "/assets/images/profile.jpeg"
       <h3>Bluesky</h3>
       <p>Open social updates and discussions.</p>
     </a>
-    <a class="social-card" href="https://www.instagram.com/mjchaker/" target="_blank" rel="noopener noreferrer">
+    <a class="social-card" href="https://www.instagram.com/mohamad.j.chaker/" target="_blank" rel="noopener noreferrer">
       <h3>Instagram</h3>
       <p>Visual content, stories, and lifestyle moments.</p>
     </a>
-    <a class="social-card" href="https://www.threads.com/@mjchaker" target="_blank" rel="noopener noreferrer">
+    <a class="social-card" href="https://www.threads.com/@mohamad.j.chaker" target="_blank" rel="noopener noreferrer">
       <h3>Threads</h3>
       <p>Short-form commentary and community posts.</p>
     </a>
-    <a class="social-card" href="https://www.tiktok.com/@mjchaker" target="_blank" rel="noopener noreferrer">
+    <a class="social-card" href="https://www.tiktok.com/@mohamad.j.chaker" target="_blank" rel="noopener noreferrer">
       <h3>TikTok</h3>
       <p>Creative clips and behind-the-scenes content.</p>
     </a>
