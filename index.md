@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Home
 description: "Engineering student and independent artist building at the intersection of tech, music, and online community."
 image: "/assets/images/profile.jpeg"
 ---
@@ -16,7 +18,7 @@ image: "/assets/images/profile.jpeg"
       <a class="button" href="/about/">About</a>
       <a class="button button-secondary" href="/artistry/">Listen</a>
       <a class="button button-secondary" href="/blog/">Read Blog</a>
-    </section>
+    </div>
   </div>
 </section>
 
@@ -71,4 +73,4 @@ image: "/assets/images/profile.jpeg"
     <h3>Writing</h3>
     <p>Sharing long-form thoughts through blog posts and updates.</p>
   </div>
-</div>
+</section>
