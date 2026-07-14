@@ -31,7 +31,20 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Validate Claude API key
+        id: validate-key
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [[ -n "${ANTHROPIC_API_KEY}" && "${ANTHROPIC_API_KEY}" == sk-ant-* ]]; then
+            echo "is_valid=true" >> "${GITHUB_OUTPUT}"
+          else
+            echo "is_valid=false" >> "${GITHUB_OUTPUT}"
+            echo "::warning::Skipping Claude Code Review because ANTHROPIC_API_KEY is missing or invalid."
+          fi
+
       - name: Run Claude Code Review
+        if: ${{ steps.validate-key.outputs.is_valid == 'true' }}
         id: claude-review
         uses: anthropics/claude-code-action@beta
         with:
@@ -72,4 +85,3 @@ jobs:
           # if: |
           #   !contains(github.event.pull_request.title, '[skip-review]') &&
           #   !contains(github.event.pull_request.title, '[WIP]')
-
