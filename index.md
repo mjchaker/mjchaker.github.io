@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Home
 description: "Engineering student and independent artist building at the intersection of tech, music, and online community."
 image: "/assets/images/profile.jpeg"
