@@ -3,7 +3,10 @@
 # ==============================================================================
 
 # Theme and basic settings
-remote_theme: jekyll/minima
+# Pinned to a specific minima commit so upstream changes on master (e.g. the
+# default->base layout rename) can't break the site without a local change.
+# To update: replace the SHA with a newer jekyll/minima commit and re-test.
+remote_theme: jekyll/minima@4de322363fca5927e6f4012cb94f6dad69ab5e6c
 timezone: Canada/Eastern
 title: "Mohamad Jad Chaker"
 url: "https://mjchaker.github.io"
