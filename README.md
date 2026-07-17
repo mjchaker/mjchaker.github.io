@@ -1,64 +1,32 @@
-# Mohamad Jad Chaker - Personal Website
+# mjchaker.github.io
 
-This is my personal website built with Jekyll and hosted on GitHub Pages.
+My personal website — software projects, music, and contact. Live at
+**https://mjchaker.github.io**.
 
-## Project Structure
+A self-contained static site: no build step, no dependencies. GitHub Pages
+publishes the repo root automatically on every push to `main` (the `.nojekyll`
+file skips Jekyll processing so files are served as-is).
 
-```
-├── _config.yml          # Jekyll configuration
-├── _data/               # Site data files
-│   └── projects.yml     # Project information
-├── _includes/           # Jekyll includes
-│   └── custom-head.html
-├── _posts/              # Blog posts
-│   ├── 2025-06-19-quantum-mechanics-introduction.md
-│   └── 2025-08-21-quantum-centennial.md
-├── assets/              # Static assets
-│   ├── favicon/         # Favicon files
-│   ├── images/          # Images and photos
-│   └── documents/       # PDFs and documents
-├── dev/                 # Development files
-│   └── local_website/   # Local development version
-├── docs/                # Documentation
-│   ├── HOW_TO_WRITE_POSTS.txt
-│   └── CLAUDE.md
-├── verification/        # Site verification files
-│   └── google1a83046248a4a128.html
-├── about.md             # About page
-├── artist.md            # Music/artist page
-├── blog.md              # Blog listing page
-├── faq-page.md          # FAQ page
-├── index.md             # Homepage
-├── projects.md          # Projects page
-├── skills.md            # Skills page
-├── Gemfile              # Ruby dependencies
-└── README.md            # This file
-```
+## Structure
 
-## Getting Started
+- `index.html` — all content and structure
+- `styles.css` — theming (dark/light), layout, animations
+- `script.js` — theme toggle + scroll-reveal animations
+- `assets/favicon/` — favicon set; `assets/images/` — photos;
+  `assets/documents/` — résumé PDF
+- `google1a83046248a4a128.html`, `verification/`, `.well-known/` — Google and
+  Bluesky site-verification files (don't delete)
 
-1. Install Jekyll and dependencies:
-   ```bash
-   bundle install
-   ```
+## Updating content
 
-2. Serve the site locally:
-   ```bash
-   bundle exec jekyll serve
-   ```
+- **Projects** — the "Project Two" / "Project Three" cards in `index.html` are
+  placeholders; swap in real work with links and outcome-focused blurbs.
+- **Music** — Spotify and Apple Music artist embeds are already wired up.
+- **Résumé** — replace `assets/documents/resume_public.pdf`.
 
-3. Visit `http://localhost:4000` to view the site
+The previous Jekyll site (blog posts, about/resume/artistry pages) is
+preserved in git history prior to the "Replace Jekyll site" commit.
 
-## Writing Blog Posts
+## Local preview
 
-See `docs/HOW_TO_WRITE_POSTS.txt` for detailed instructions on creating new blog posts.
-
-## Deployment
-
-The site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
-
-## Contact
-
-- Website: https://mjchaker.github.io
-- Email: contact@chaker.tech
-- GitHub: https://github.com/mjchaker
+Open `index.html` in a browser — that's it.
