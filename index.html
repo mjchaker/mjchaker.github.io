@@ -184,17 +184,65 @@
       <div class="card-grid">
         <article class="card reveal">
           <div class="card-top">
-            <span class="card-icon" aria-hidden="true">🐘</span>
-            <span class="card-tag">Open source</span>
+            <span class="card-icon" aria-hidden="true">λ</span>
+            <span class="card-tag">Systems</span>
           </div>
-          <h3>Mastodon (fork)</h3>
+          <h3>MIT Scheme on Apple Silicon</h3>
           <p>
-            Customizing and extending a production-grade federated social network — a
-            large Ruby on Rails + React/TypeScript codebase with real users, real scale,
-            and real constraints.
+            An unofficial native port of MIT/GNU Scheme 12.1 to Apple Silicon: the full
+            tree builds on AArch64, the LIAR native-code compiler emits and runs AArch64
+            machine code, and 96 of 97 upstream tests pass — the one failure being a
+            documented hardware limitation, not the port.
           </p>
-          <ul class="chips chips-sm"><li>Rails</li><li>React</li><li>TypeScript</li><li>PostgreSQL</li></ul>
-          <a class="card-link" href="https://github.com/mjchaker/mastodon" target="_blank" rel="noopener">View repository <span aria-hidden="true">→</span></a>
+          <ul class="chips chips-sm"><li>C</li><li>Scheme</li><li>AArch64</li><li>Compilers</li></ul>
+          <a class="card-link" href="https://github.com/mjchaker/mit-scheme-apple-silicon" target="_blank" rel="noopener">View repository <span aria-hidden="true">→</span></a>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-top">
+            <span class="card-icon" aria-hidden="true">⛏️</span>
+            <span class="card-tag">AI agents</span>
+          </div>
+          <h3>ClaudeCraft</h3>
+          <p>
+            A Spigot plugin that puts Claude inside a Minecraft server: chat with /ask, or
+            spawn a bot that runs an agentic tool-use loop — observing terrain, planning,
+            moving, and placing blocks until the build is done. World access is marshalled
+            onto the main thread so the server never blocks on the API.
+          </p>
+          <ul class="chips chips-sm"><li>Java</li><li>Anthropic API</li><li>Agents</li></ul>
+          <a class="card-link" href="https://github.com/mjchaker/claudecraft" target="_blank" rel="noopener">View repository <span aria-hidden="true">→</span></a>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-top">
+            <span class="card-icon" aria-hidden="true">⚛️</span>
+            <span class="card-tag">Physics</span>
+          </div>
+          <h3>Hydrogen Orbitals</h3>
+          <p>
+            An interactive 3D visualization of the hydrogen atom's quantum orbitals — a
+            zero-dependency, single-file WebGL app that samples the exact probability
+            density |ψ|² from the analytic Schrödinger solutions, with complex-phase and
+            chemistry-style real-orbital modes.
+          </p>
+          <ul class="chips chips-sm"><li>WebGL</li><li>JavaScript</li><li>Quantum mechanics</li></ul>
+          <a class="card-link" href="https://github.com/mjchaker/quantum-orbitals" target="_blank" rel="noopener">View repository <span aria-hidden="true">→</span></a>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-top">
+            <span class="card-icon" aria-hidden="true">🎮</span>
+            <span class="card-tag">Web app</span>
+          </div>
+          <h3>Rift Recap</h3>
+          <p>
+            A Flask web app that pulls a summoner's recent League of Legends games from
+            the Riot API — expandable match rows with KDA, CS, gold, and game mode, plus
+            a dark/light theme that remembers your choice.
+          </p>
+          <ul class="chips chips-sm"><li>Python</li><li>Flask</li><li>REST APIs</li></ul>
+          <a class="card-link" href="https://github.com/mjchaker/lol-web-app" target="_blank" rel="noopener">View repository <span aria-hidden="true">→</span></a>
         </article>
 
         <article class="card reveal">
@@ -215,32 +263,17 @@
 
         <article class="card reveal">
           <div class="card-top">
-            <span class="card-icon" aria-hidden="true">λ</span>
-            <span class="card-tag">Fundamentals</span>
-          </div>
-          <h3>SICP Exercises</h3>
-          <p>
-            Worked solutions to <em>Structure and Interpretation of Computer Programs</em>
-            in MIT/GNU Scheme — complete with step-by-step evaluation traces and write-ups
-            comparing recursive and iterative processes. The classic CS text, done properly.
-          </p>
-          <ul class="chips chips-sm"><li>Scheme</li><li>Algorithms</li></ul>
-          <a class="card-link" href="https://github.com/mjchaker/sicp-exercises" target="_blank" rel="noopener">View repository <span aria-hidden="true">→</span></a>
-        </article>
-
-        <article class="card reveal">
-          <div class="card-top">
-            <span class="card-icon" aria-hidden="true">🎸</span>
+            <span class="card-icon" aria-hidden="true">🐘</span>
             <span class="card-tag">Open source</span>
           </div>
-          <h3>Mustang MIDI Bridge (fork)</h3>
+          <h3>Mastodon (fork)</h3>
           <p>
-            A Linux service in C++ that translates MIDI messages into the proprietary USB
-            protocol of Fender Mustang amplifiers, so a Raspberry Pi can act as a floor
-            controller — right where my music gear meets my code.
+            Customizing and extending a production-grade federated social network — a
+            large Ruby on Rails + React/TypeScript codebase with real users, real scale,
+            and real constraints.
           </p>
-          <ul class="chips chips-sm"><li>C++</li><li>MIDI</li><li>Linux</li></ul>
-          <a class="card-link" href="https://github.com/mjchaker/mustang-midi-bridge" target="_blank" rel="noopener">View repository <span aria-hidden="true">→</span></a>
+          <ul class="chips chips-sm"><li>Rails</li><li>React</li><li>TypeScript</li><li>PostgreSQL</li></ul>
+          <a class="card-link" href="https://github.com/mjchaker/mastodon" target="_blank" rel="noopener">View repository <span aria-hidden="true">→</span></a>
         </article>
       </div>
     </section>
