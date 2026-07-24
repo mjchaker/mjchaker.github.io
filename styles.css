@@ -255,6 +255,7 @@ h2 { font-size: clamp(1.7rem, 3.4vw, 2.4rem); letter-spacing: -0.02em; margin-bo
 .card h3 { font-size: 1.2rem; }
 .card p { color: var(--text-dim); font-size: 0.95rem; flex-grow: 1; }
 .card-link { font-weight: 600; font-size: 0.92rem; }
+.card-links { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; }
 
 /* music */
 .music-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.4rem; margin-bottom: 2rem; }
