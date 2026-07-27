@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Mohamad Jad Chaker (MJ) — Software Engineer &amp; Musician</title>
-  <meta name="description" content="Mohamad Jad Chaker (MJ) is an engineering student at Ontario Tech University working in software, and an independent artist. Explore projects, listen to music, and get in touch." />
+  <meta name="description" content="Mohamad Jad Chaker (MJ) is a software engineer focused on systems, low-level computing, and developer tooling — and an independent artist. Explore projects, listen to music, and get in touch." />
   <link rel="canonical" href="https://mjchaker.github.io/" />
 
   <!-- Open Graph / social sharing -->
@@ -37,7 +37,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" />
 
-  <link rel="stylesheet" href="styles.css?v=20260724" />
+  <link rel="stylesheet" href="styles.css?v=20260727" />
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -72,9 +72,10 @@
         <p class="eyebrow"><span class="pulse-dot" aria-hidden="true"></span> Open to new opportunities</p>
         <h1>Software engineer<br /><span class="gradient-text">with an ear for detail.</span></h1>
         <p class="lede">
-          I'm <strong>Mohamad Jad Chaker</strong> (MJ) — I write software in C, Python, and Scheme
-          by day and write and release music as an independent artist by night. Both crafts share
-          the same discipline: structure, rhythm, and relentless iteration until it feels right.
+          I'm <strong>Mohamad Jad Chaker</strong> (MJ) — I build systems, low-level software, and
+          developer tooling by day and write and release music as an independent artist by night.
+          Both crafts share the same discipline: structure, rhythm, and relentless iteration until
+          it feels right.
         </p>
         <div class="hero-cta">
           <a class="btn btn-primary" href="#projects">View my work</a>
@@ -138,11 +139,17 @@
       <div class="about-grid">
         <div class="about-copy reveal">
           <p>
-            I'm an engineering student at Ontario Tech University, working in software alongside
-            my studies. I care about the whole product — not just whether the code works, but
-            whether it's clear, correct, and built to last. My core languages are C, Python, and
-            Scheme: low-level control when performance matters, quick iteration when it doesn't,
-            and the functional mindset that makes both cleaner.
+            I learned computing from the bottom up — memory layout, pointers, evaluators, the
+            machine underneath the framework. That's why a new stack takes me days rather than
+            months: modern frameworks are abstractions, and I already understand what they
+            abstract over. My core language is C, written by hand and understood deeply, alongside
+            Python, Scheme, Java, Swift, and C++. I study honours mathematics at the University of
+            Waterloo and, concurrently, electrical engineering at Ontario Tech University — chosen
+            for the hardware/software boundary.
+          </p>
+          <p class="pull-quote">
+            Every abstraction I use, I can open. That's the difference between someone who
+            assembles software and someone you can hand an unfamiliar system to.
           </p>
           <p>
             My background as a musician shapes how I build software. Producing a track means
@@ -159,17 +166,17 @@
         <aside class="about-facts reveal">
           <h3>Toolbox</h3>
           <ul class="chips" aria-label="Skills">
-            <li>C</li><li>Python</li><li>Scheme</li>
-            <li>Functional programming</li><li>Data structures &amp; algorithms</li>
-            <li>Git &amp; GitHub</li><li>Linux</li>
-            <li>Audio production</li>
+            <li>C</li><li>Python</li><li>Scheme / Lisp</li><li>Java</li><li>Swift</li><li>C++</li>
+            <li>Shell scripting</li><li>Linux</li><li>Docker</li><li>Git</li>
+            <li>Model Context Protocol</li><li>LLM tool-calling</li>
+            <li>Digital signal processing</li><li>Audio production</li>
           </ul>
           <h3>What I bring</h3>
           <ul class="fact-list">
-            <li>Real-world software experience balanced with full-time studies</li>
-            <li>Range across paradigms — from C's low-level control to Scheme's functional style</li>
-            <li>Clear written communication and steady, honest iteration</li>
-            <li>A creative's eye for polish and detail</li>
+            <li>Bottom-up understanding, from memory layout to the framework on top</li>
+            <li>New stacks in days, not months — they abstract over things I've built by hand</li>
+            <li>I don't ship code I can't explain line by line</li>
+            <li>Leverage for others: tools built so people never have to think about the machine</li>
           </ul>
         </aside>
       </div>
@@ -183,6 +190,37 @@
         <p class="section-sub">A few things I've built and contributed to. More on <a href="https://github.com/mjchaker" target="_blank" rel="noopener">GitHub</a>.</p>
       </div>
       <div class="card-grid">
+        <article class="card reveal">
+          <div class="card-top">
+            <span class="card-icon" aria-hidden="true">🧠</span>
+            <span class="card-tag">Flagship</span>
+          </div>
+          <h3>Scheme Interpreter in C</h3>
+          <p>
+            A working Lisp in hand-written C, in the SICP tradition: reader and tokenizer, an
+            eval/apply core, and frame-chained lexical environments where closures capture their
+            defining frame — parsing, symbol interning, recursive evaluation, and manual memory
+            ownership, with no runtime to catch mistakes.
+          </p>
+          <ul class="chips chips-sm"><li>C</li><li>Language implementation</li><li>SICP</li></ul>
+          <span class="card-note">Code available on request</span>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-top">
+            <span class="card-icon" aria-hidden="true">🔌</span>
+            <span class="card-tag">AI agents</span>
+          </div>
+          <h3>Notion MCP Server</h3>
+          <p>
+            A Model Context Protocol server exposing Notion to LLM agents as callable tools —
+            protocol implementation, tool-schema design, third-party REST integration, and auth.
+            Built on current agent infrastructure, not just read about.
+          </p>
+          <ul class="chips chips-sm"><li>Model Context Protocol</li><li>LLM tooling</li><li>REST APIs</li></ul>
+          <span class="card-note">Code available on request</span>
+        </article>
+
         <article class="card reveal">
           <div class="card-top">
             <span class="card-icon" aria-hidden="true">λ</span>
@@ -338,8 +376,8 @@
         <p class="kicker">05 — Contact</p>
         <h2>Let's build something together.</h2>
         <p class="section-sub">
-          I'm open to internships, roles, and collaborations of all kinds —
-          engineering or music. The fastest way to reach me:
+          I'm open to software engineering roles — Greater Toronto Area or remote —
+          and to collaborations of all kinds, engineering or music. The fastest way to reach me:
         </p>
         <div class="contact-actions">
           <a class="btn btn-primary btn-lg" href="mailto:mjchaker19@gmail.com">mjchaker19@gmail.com</a>
@@ -377,6 +415,6 @@
     </div>
   </footer>
 
-  <script src="script.js?v=20260724" defer></script>
+  <script src="script.js?v=20260727" defer></script>
 </body>
 </html>

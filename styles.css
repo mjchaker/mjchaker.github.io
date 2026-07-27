@@ -333,3 +333,13 @@ h2 { font-size: clamp(1.7rem, 3.4vw, 2.4rem); letter-spacing: -0.02em; margin-bo
 .post-card h3 { font-size: 1.15rem; margin-bottom: 0.35rem; }
 .post-card .post-meta { margin-bottom: 0.5rem; }
 .post-card p:last-child { color: var(--text-dim); font-size: 0.95rem; }
+
+/* ---------- CV-sync additions ---------- */
+.pull-quote {
+  font-style: italic; color: var(--text);
+  border-left: 3px solid var(--accent);
+  padding-left: 1rem; margin: 1.3rem 0; font-size: 1.05rem;
+}
+.card-note {
+  font-weight: 600; font-size: 0.92rem; color: var(--text-dim);
+}
