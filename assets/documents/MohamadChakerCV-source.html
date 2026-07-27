@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Mohamad Jad Chaker — Software Engineer</title>
+<style>
+  @page {
+    size: Letter;
+    margin: 0.5in 0.58in 0.52in 0.58in;
+    background: #FAF9F5;
+
+    @bottom-left {
+      content: "Open to software engineering roles · Greater Toronto Area or remote · github.com/mjchaker";
+      font-family: "Lato", sans-serif;
+      font-size: 7.1pt;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: #6E6C63;
+      border-top: 0.7pt solid #DDD9CC;
+      width: 100%;
+      padding-top: 5.5pt;
+      vertical-align: top;
+    }
+  }
+
+  :root {
+    --ink:      #1A1A18;
+    --ink-soft: #3D3C37;
+    --ink-mute: #6E6C63;
+    --rule:     #DDD9CC;
+    --accent:   #C15F3C;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: "Lato", sans-serif;
+    font-size: 8.4pt;
+    line-height: 1.40;
+    color: var(--ink-soft);
+    hyphens: none;
+  }
+
+  /* ---------- header ---------- */
+
+  .name {
+    font-family: "Lora", serif;
+    font-size: 25pt;
+    font-weight: 600;
+    letter-spacing: -0.024em;
+    color: var(--ink);
+    line-height: 1.0;
+  }
+  .name .given { font-weight: 400; color: var(--ink-mute); }
+
+  .role {
+    margin-top: 5pt;
+    font-size: 9.6pt;
+    color: var(--ink-soft);
+  }
+  .role b { font-weight: 700; color: var(--ink); }
+
+  .contact {
+    margin-top: 6.5pt;
+    font-size: 7.3pt;
+    letter-spacing: 0.055em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    font-weight: 500;
+  }
+  .contact span { color: var(--rule); padding: 0 4pt; }
+
+  .hairline { height: 0.7pt; background: var(--rule); margin: 10pt 0 9pt; }
+
+  /* ---------- lead statement ---------- */
+
+  .lead {
+    font-family: "Lora", serif;
+    font-size: 9.2pt;
+    line-height: 1.47;
+    color: var(--ink);
+  }
+  .lead p + p { margin-top: 5pt; }
+
+  .kicker {
+    display: block;
+    font-family: "Lato", sans-serif;
+    font-size: 6.9pt;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 5.5pt;
+  }
+
+  /* ---------- two-column body ---------- */
+
+  .columns { margin-top: 11pt; display: flex; gap: 20pt; }
+  .main { width: 59.5%; }
+  .rail { width: 40.5%; }
+
+  h2 {
+    font-size: 6.9pt;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    padding-bottom: 3.5pt;
+    border-bottom: 0.7pt solid var(--rule);
+    margin-bottom: 6.5pt;
+  }
+  section + section { margin-top: 9.5pt; }
+
+  /* ---------- entries ---------- */
+
+  .entry { margin-bottom: 6.5pt; }
+  .entry:last-child { margin-bottom: 0; }
+
+  .entry-head {
+    font-family: "Lora", serif;
+    font-size: 9.4pt;
+    font-weight: 600;
+    color: var(--ink);
+    letter-spacing: -0.008em;
+  }
+  .entry-meta {
+    font-size: 7.1pt;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    font-weight: 500;
+    margin-top: 1.5pt;
+  }
+  .entry-body { margin-top: 3pt; }
+  .entry-body b, .skill-body b { color: var(--ink); font-weight: 700; }
+
+  .flag {
+    display: inline-block;
+    font-family: "Lato", sans-serif;
+    font-size: 6.2pt;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border: 0.7pt solid var(--accent);
+    border-radius: 2pt;
+    padding: 0.3pt 3pt 0.6pt;
+    vertical-align: 1.6pt;
+    margin-left: 3.5pt;
+  }
+
+  /* ---------- rail ---------- */
+
+  .skill { margin-bottom: 5.5pt; }
+  .skill:last-child { margin-bottom: 0; }
+  .skill-label {
+    font-size: 6.9pt;
+    font-weight: 700;
+    letter-spacing: 0.075em;
+    text-transform: uppercase;
+    color: var(--ink);
+    margin-bottom: 1pt;
+  }
+
+  .note { line-height: 1.40; }
+
+  .quote {
+    font-family: "Lora", serif;
+    font-size: 8.9pt;
+    line-height: 1.45;
+    color: var(--ink);
+    border-left: 1.6pt solid var(--accent);
+    padding-left: 8pt;
+  }
+
+  .footline {
+    margin-top: 8pt;
+    padding-top: 5.5pt;
+    border-top: 0.7pt solid var(--rule);
+    font-size: 7.1pt;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    font-weight: 500;
+  }
+</style>
+</head>
+<body>
+
+  <header>
+    <div class="name"><span class="given">Mohamad Jad</span> Chaker</div>
+    <div class="role"><b>Software Engineer</b> &nbsp;·&nbsp; Systems, low-level computing, and developer tooling</div>
+    <div class="contact">
+      Barrie &amp; Greater Toronto Area, ON<span>·</span>mjchaker19@gmail.com<span>·</span>github.com/mjchaker
+    </div>
+  </header>
+
+  <div class="hairline"></div>
+
+  <div class="lead">
+    <span class="kicker">The short version</span>
+    <p>I learned computing from the bottom up — memory layout, pointers, evaluators, the machine underneath the
+    framework. That is why a new stack takes me days rather than months: modern frameworks are abstractions, and I
+    already understand what they abstract over. Hand me React, Rust or a Kubernetes manifest and I am reading a new
+    interface to problems I have solved a layer down.</p>
+    <p>I am not a prompt-and-pray developer — I write C by hand and I don't ship code I can't explain line by line.
+    What I want from the work is leverage for other people: most of the people around me aren't short on intelligence,
+    they're short on time and patience for the machine. Building the tool so they never have to think about it is the
+    part of engineering I care about.</p>
+  </div>
+
+  <div class="columns">
+
+    <div class="main">
+
+      <section>
+        <h2>Selected work</h2>
+
+        <div class="entry">
+          <div class="entry-head">Scheme Interpreter <span class="flag">C · flagship</span></div>
+          <div class="entry-meta">Language implementation, written from scratch</div>
+          <div class="entry-body">A working Lisp in hand-written C, in the SICP tradition: reader and tokenizer, an
+          <b>eval/apply</b> core, and frame-chained lexical environments where closures capture their defining frame.
+          Parsing, symbol interning, recursive evaluation and manual memory ownership, with no runtime to catch
+          mistakes. Writing the evaluator made every other language's semantics legible to me.</div>
+        </div>
+
+        <div class="entry">
+          <div class="entry-head">Notion MCP Server</div>
+          <div class="entry-meta">AI agent tooling · Model Context Protocol</div>
+          <div class="entry-body">A Model Context Protocol server exposing Notion to LLM agents as callable tools:
+          protocol implementation, tool-schema design, third-party REST integration and auth. Built on current agent
+          infrastructure, not just read about.</div>
+        </div>
+
+        <div class="entry">
+          <div class="entry-head">Universal Remote</div>
+          <div class="entry-meta">Software-defined device control · Apple frameworks</div>
+          <div class="entry-body">A software remote built on Apple's native frameworks — device and command modelling,
+          transport, and interface, specified in a full technical design document before any code.</div>
+        </div>
+
+        <div class="entry">
+          <div class="entry-head">Original music, released commercially</div>
+          <div class="entry-meta">Self-produced · distributed via DistroKid</div>
+          <div class="entry-body">Writing, producing, mixing and mastering original records, then shipping them to
+          streaming platforms independently — where the signal-processing fluency at right was earned, and evidence I
+          finish things nobody assigned me.</div>
+        </div>
+      </section>
+
+      <section>
+        <h2>Education</h2>
+
+        <div class="entry">
+          <div class="entry-head">BSc (Honours) Mathematics</div>
+          <div class="entry-meta">University of Waterloo · Waterloo, ON</div>
+          <div class="entry-body">Honours mathematics stream — analysis and multivariable calculus (MATH&nbsp;137,
+          MATH&nbsp;237), linear algebra, formal proof.</div>
+        </div>
+
+        <div class="entry">
+          <div class="entry-head">BEng, Electrical Engineering</div>
+          <div class="entry-meta">Ontario Tech University · 2025 – present</div>
+          <div class="entry-body">Concurrent study, chosen for the hardware/software boundary: signals, circuits and
+          instrumentation alongside the software practice.</div>
+        </div>
+
+        <div class="entry">
+          <div class="entry-head">Tutoring — mathematics &amp; STEM</div>
+          <div class="entry-body">Ongoing informal tutoring. Same instinct as the tooling work: make the impenetrable
+          usable by the person in front of me.</div>
+        </div>
+      </section>
+
+    </div>
+
+    <div class="rail">
+
+      <section>
+        <h2>Capabilities</h2>
+
+        <div class="skill">
+          <div class="skill-label">Languages</div>
+          <div class="skill-body"><b>C</b> (deep — K&amp;R, Modern C, GNU internals) · <b>Python</b> · Java · Scheme /
+          Lisp · Swift · C++ · zsh &amp; shell scripting</div>
+        </div>
+
+        <div class="skill">
+          <div class="skill-label">Systems &amp; infrastructure</div>
+          <div class="skill-body">Linux administration · Git · <b>Docker</b> · nginx · Ansible · OpenStack ·
+          architecture and systems programming at CS:APP depth</div>
+        </div>
+
+        <div class="skill">
+          <div class="skill-label">AI &amp; agent engineering</div>
+          <div class="skill-body"><b>Model Context Protocol</b> servers · LLM API integration · tool-calling design ·
+          agentic workflow tooling</div>
+        </div>
+
+        <div class="skill">
+          <div class="skill-label">Foundations</div>
+          <div class="skill-body">Automata &amp; computability · machine learning (CS229) · data mining · distributed
+          systems · MATLAB, R, LaTeX</div>
+        </div>
+
+        <div class="skill">
+          <div class="skill-label">Building toward</div>
+          <div class="skill-body">Modern web — JavaScript, the browser runtime, API-driven front ends · Solidity ·
+          Idris and dependent types</div>
+        </div>
+      </section>
+
+      <section>
+        <h2>Digital signal processing</h2>
+        <div class="note">Working fluency, applied in production rather than studied once: <b>sample rate</b> and
+        Nyquist limits, <b>bit depth</b>, quantisation and dither, <b>linear PCM</b>, <b>codecs versus container
+        formats</b>, lossy/lossless trade-offs, and <b>non-linear processing</b> — compression, saturation, limiting —
+        and why it resists clean closed-form description.</div>
+      </section>
+
+      <section>
+        <h2>Apple platforms</h2>
+        <div class="note">A hobby, held with clear eyes: <b>macOS</b>, <b>Xcode</b>, <b>Swift</b>, <b>XNU / Darwin</b>
+        internals. Most of the world doesn't run Apple hardware, largely on price — so this is curiosity, not a bet.
+        The transferable habit is reading the kernel and framework source instead of only the docs.</div>
+      </section>
+
+      <section>
+        <h2>How I work</h2>
+        <div class="quote">Every abstraction I use, I can open. That's the difference between someone who assembles
+        software and someone you can hand an unfamiliar system to.</div>
+      </section>
+
+    </div>
+  </div>
+
+</body>
+</html>
