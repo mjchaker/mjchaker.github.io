@@ -1,9 +1,19 @@
 <!DOCTYPE html>
+<!-- Regenerate the PDF from this file with WeasyPrint:
+       npm i @fontsource/lato @fontsource/lora   (next to this file, for the @font-face paths)
+       python3 -c "import weasyprint; weasyprint.HTML(filename='MohamadChakerCV-source.html').write_pdf('MohamadChakerCV.pdf')"
+-->
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <title>Mohamad Jad Chaker — Software Engineer</title>
 <style>
+  @font-face { font-family: "Lato"; font-weight: 400; src: url("node_modules/@fontsource/lato/files/lato-latin-400-normal.woff2"); }
+  @font-face { font-family: "Lato"; font-weight: 500; src: url("node_modules/@fontsource/lato/files/lato-latin-400-normal.woff2"); }
+  @font-face { font-family: "Lato"; font-weight: 700; src: url("node_modules/@fontsource/lato/files/lato-latin-700-normal.woff2"); }
+  @font-face { font-family: "Lora"; font-weight: 400; src: url("node_modules/@fontsource/lora/files/lora-latin-400-normal.woff2"); }
+  @font-face { font-family: "Lora"; font-weight: 600; src: url("node_modules/@fontsource/lora/files/lora-latin-600-normal.woff2"); }
+
   @page {
     size: Letter;
     margin: 0.5in 0.58in 0.52in 0.58in;
@@ -184,13 +194,23 @@
     color: var(--ink-mute);
     font-weight: 500;
   }
+
+  /* one-page fit: slightly tightened rhythm */
+  body { line-height: 1.36; }
+  .lead { font-size: 9.0pt; line-height: 1.44; }
+  .columns { margin-top: 9pt; }
+  .hairline { margin: 8pt 0 7pt; }
+  section + section { margin-top: 8pt; }
+  .entry { margin-bottom: 5.5pt; }
+  .skill { margin-bottom: 4.5pt; }
+  h2 { margin-bottom: 5.5pt; padding-bottom: 3pt; }
 </style>
 </head>
 <body>
 
   <header>
     <div class="name"><span class="given">Mohamad Jad</span> Chaker</div>
-    <div class="role"><b>Software Engineer</b> &nbsp;·&nbsp; Systems, low-level computing, and developer tooling</div>
+    <div class="role"><b>Computer Programmer</b> &nbsp;·&nbsp; Systems, low-level computing, and developer tooling</div>
     <div class="contact">
       Barrie &amp; Greater Toronto Area, ON<span>·</span>mjchaker19@gmail.com<span>·</span>github.com/mjchaker
     </div>
@@ -230,8 +250,8 @@
           <div class="entry-head">Notion MCP Server</div>
           <div class="entry-meta">AI agent tooling · Model Context Protocol</div>
           <div class="entry-body">A Model Context Protocol server exposing Notion to LLM agents as callable tools:
-          protocol implementation, tool-schema design, third-party REST integration and auth. Built on current agent
-          infrastructure, not just read about.</div>
+          protocol implementation, tool-schema design, third-party REST integration and auth. Built before Notion’s
+          official Claude integration existed.</div>
         </div>
 
         <div class="entry">
@@ -254,17 +274,17 @@
         <h2>Education</h2>
 
         <div class="entry">
-          <div class="entry-head">BSc (Honours) Mathematics</div>
+          <div class="entry-head">BSc, Mathematical Physics</div>
           <div class="entry-meta">University of Waterloo · Waterloo, ON</div>
-          <div class="entry-body">Honours mathematics stream — analysis and multivariable calculus (MATH&nbsp;137,
-          MATH&nbsp;237), linear algebra, formal proof.</div>
+          <div class="entry-body">Mathematical physics, with honours mathematics coursework — analysis and multivariable
+          calculus (MATH&nbsp;137, MATH&nbsp;237), linear algebra, formal proof.</div>
         </div>
 
         <div class="entry">
-          <div class="entry-head">BEng, Electrical Engineering</div>
+          <div class="entry-head">BEng, Software Engineering</div>
           <div class="entry-meta">Ontario Tech University · 2025 – present</div>
-          <div class="entry-body">Concurrent study, chosen for the hardware/software boundary: signals, circuits and
-          instrumentation alongside the software practice.</div>
+          <div class="entry-body">Concurrent study — formal software engineering practice alongside the mathematics
+          and physics background.</div>
         </div>
 
         <div class="entry">
@@ -317,14 +337,14 @@
         <div class="note">Working fluency, applied in production rather than studied once: <b>sample rate</b> and
         Nyquist limits, <b>bit depth</b>, quantisation and dither, <b>linear PCM</b>, <b>codecs versus container
         formats</b>, lossy/lossless trade-offs, and <b>non-linear processing</b> — compression, saturation, limiting —
-        and why it resists clean closed-form description.</div>
+        and why it resists clean closed-form description. Daily tools: <b>Logic Pro</b> and the full <b>FabFilter</b> suite.</div>
       </section>
 
       <section>
         <h2>Apple platforms</h2>
         <div class="note">A hobby, held with clear eyes: <b>macOS</b>, <b>Xcode</b>, <b>Swift</b>, <b>XNU / Darwin</b>
         internals. Most of the world doesn't run Apple hardware, largely on price — so this is curiosity, not a bet.
-        The transferable habit is reading the kernel and framework source instead of only the docs.</div>
+        The transferable habit is reading the kernel and framework source instead of only the docs. Set up to build and <b>publish</b> — Xcode on Apple Silicon.</div>
       </section>
 
       <section>
